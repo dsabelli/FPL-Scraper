@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Nakamba",
+    "Team": "Aston Villa",
+    "Position": "Midfielder",
+    "Ownership": "0.2%",
+    "Price": "\u00a34.3",
+    "\u2206": "-\u00a30.1",
+    "Form": "0.0"
+  },
+  {
+    "Name": "Malacia",
+    "Team": "Man Utd",
+    "Position": "Defender",
+    "Ownership": "3.4%",
+    "Price": "\u00a34.4",
+    "\u2206": "-\u00a30.1",
+    "Form": "-0.7"
+  },
+  {
+    "Name": "Awoniyi",
+    "Team": "Nott'm Forest",
+    "Position": "Forward",
+    "Ownership": "0.6%",
+    "Price": "\u00a35.7",
+    "\u2206": "-\u00a30.1",
+    "Form": "1.0"
+  },
+  {
+    "Name": "Lingard",
+    "Team": "Nott'm Forest",
+    "Position": "Midfielder",
+    "Ownership": "1.8%",
+    "Price": "\u00a35.5",
+    "\u2206": "-\u00a30.1",
+    "Form": "0.7"
+  }
+]

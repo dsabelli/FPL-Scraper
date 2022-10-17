@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Solanke",
+    "Team": "Bournemouth",
+    "Position": "Forward",
+    "Ownership": "2.8%",
+    "Price": "\u00a35.8",
+    "\u2206": "+\u00a30.1",
+    "Form": "6.0"
+  },
+  {
+    "Name": "Toney",
+    "Team": "Brentford",
+    "Position": "Forward",
+    "Ownership": "25.0%",
+    "Price": "\u00a37.4",
+    "\u2206": "+\u00a30.1",
+    "Form": "5.0"
+  },
+  {
+    "Name": "Mount",
+    "Team": "Chelsea",
+    "Position": "Midfielder",
+    "Ownership": "7.5%",
+    "Price": "\u00a37.7",
+    "\u2206": "+\u00a30.1",
+    "Form": "9.3"
+  },
+  {
+    "Name": "Trippier",
+    "Team": "Newcastle",
+    "Position": "Defender",
+    "Ownership": "56.9%",
+    "Price": "\u00a35.7",
+    "\u2206": "+\u00a30.1",
+    "Form": "6.2"
+  }
+]
