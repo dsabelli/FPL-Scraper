@@ -1,0 +1,2162 @@
+[
+  [
+    {
+      "Date": 1666033207000.0,
+      "Name": "Salah",
+      "Net Transfers": "268421",
+      "Change %": "8.5",
+      "Ownership %": "32.1"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Mount",
+      "Net Transfers": "251140",
+      "Change %": "29.9",
+      "Ownership %": "10.2"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Trossard",
+      "Net Transfers": "143670",
+      "Change %": "7.1",
+      "Ownership %": "20.2"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "117005",
+      "Change %": "4.7",
+      "Ownership %": "24.2"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Firmino",
+      "Net Transfers": "110615",
+      "Change %": "13.1",
+      "Ownership %": "8.9"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Kane",
+      "Net Transfers": "93457",
+      "Change %": "3.7",
+      "Ownership %": "24.5"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Toney",
+      "Net Transfers": "93304",
+      "Change %": "3.5",
+      "Ownership %": "25.8"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Trippier",
+      "Net Transfers": "89850",
+      "Change %": "1.5",
+      "Ownership %": "57.8"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Van Dijk",
+      "Net Transfers": "68690",
+      "Change %": "4.8",
+      "Ownership %": "14.1"
+    },
+    {
+      "Date": 1666033207000.0,
+      "Name": "Solanke",
+      "Net Transfers": "62382",
+      "Change %": "19.3",
+      "Ownership %": "3.6"
+    }
+  ],
+  [
+    {
+      "Date": 1665946779000.0,
+      "Name": "Mount",
+      "Net Transfers": "93536",
+      "Change %": "16.1",
+      "Ownership %": "6.3"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Salah",
+      "Net Transfers": "75334",
+      "Change %": "2.6",
+      "Ownership %": "27.5"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Trippier",
+      "Net Transfers": "53510",
+      "Change %": "0.9",
+      "Ownership %": "56.6"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Trossard",
+      "Net Transfers": "48363",
+      "Change %": "2.6",
+      "Ownership %": "17.6"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Toney",
+      "Net Transfers": "40950",
+      "Change %": "1.6",
+      "Ownership %": "24.6"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Kane",
+      "Net Transfers": "37405",
+      "Change %": "1.6",
+      "Ownership %": "22.2"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "34900",
+      "Change %": "1.5",
+      "Ownership %": "22.0"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Firmino",
+      "Net Transfers": "31636",
+      "Change %": "4.6",
+      "Ownership %": "6.8"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Dier",
+      "Net Transfers": "29423",
+      "Change %": "2.6",
+      "Ownership %": "10.9"
+    },
+    {
+      "Date": 1665946779000.0,
+      "Name": "Peri\u0161i\u0107",
+      "Net Transfers": "27137",
+      "Change %": "1.0",
+      "Ownership %": "24.8"
+    }
+  ],
+  [
+    {
+      "Date": 1665868265000.0,
+      "Name": "Trippier",
+      "Net Transfers": "48246",
+      "Change %": "0.8",
+      "Ownership %": "55.9"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Toney",
+      "Net Transfers": "41098",
+      "Change %": "1.6",
+      "Ownership %": "24.2"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Trossard",
+      "Net Transfers": "39843",
+      "Change %": "2.3",
+      "Ownership %": "16.9"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Firmino",
+      "Net Transfers": "27411",
+      "Change %": "4.3",
+      "Ownership %": "6.2"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Dier",
+      "Net Transfers": "23701",
+      "Change %": "2.1",
+      "Ownership %": "10.6"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Antony",
+      "Net Transfers": "21281",
+      "Change %": "2.2",
+      "Ownership %": "9.4"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Foden",
+      "Net Transfers": "20525",
+      "Change %": "1.0",
+      "Ownership %": "20.1"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Kane",
+      "Net Transfers": "19237",
+      "Change %": "0.8",
+      "Ownership %": "21.4"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Salah",
+      "Net Transfers": "18082",
+      "Change %": "0.6",
+      "Ownership %": "26.3"
+    },
+    {
+      "Date": 1665868265000.0,
+      "Name": "Zaha",
+      "Net Transfers": "17642",
+      "Change %": "0.8",
+      "Ownership %": "21.1"
+    }
+  ],
+  [
+    {
+      "Date": 1665784020000.0,
+      "Name": "Trossard",
+      "Net Transfers": "189653",
+      "Change %": "12.3",
+      "Ownership %": "16.2"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Dier",
+      "Net Transfers": "186879",
+      "Change %": "20.3",
+      "Ownership %": "10.4"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Trippier",
+      "Net Transfers": "141723",
+      "Change %": "2.5",
+      "Ownership %": "55.4"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Saliba",
+      "Net Transfers": "124536",
+      "Change %": "4.1",
+      "Ownership %": "29.8"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Cucurella",
+      "Net Transfers": "124026",
+      "Change %": "13.0",
+      "Ownership %": "10.1"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Foden",
+      "Net Transfers": "121734",
+      "Change %": "6.1",
+      "Ownership %": "20.0"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Martinelli",
+      "Net Transfers": "86441",
+      "Change %": "1.7",
+      "Ownership %": "48.2"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Son",
+      "Net Transfers": "84606",
+      "Change %": "7.1",
+      "Ownership %": "11.9"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Saka",
+      "Net Transfers": "78688",
+      "Change %": "5.8",
+      "Ownership %": "13.4"
+    },
+    {
+      "Date": 1665784020000.0,
+      "Name": "Kane",
+      "Net Transfers": "77455",
+      "Change %": "3.6",
+      "Ownership %": "21.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665687769000.0,
+      "Name": "Trossard",
+      "Net Transfers": "43870",
+      "Change %": "2.9",
+      "Ownership %": "14.5"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Foden",
+      "Net Transfers": "39608",
+      "Change %": "2.0",
+      "Ownership %": "19.1"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Trippier",
+      "Net Transfers": "34321",
+      "Change %": "0.6",
+      "Ownership %": "54.1"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Dier",
+      "Net Transfers": "32162",
+      "Change %": "3.6",
+      "Ownership %": "8.7"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Saliba",
+      "Net Transfers": "28676",
+      "Change %": "0.9",
+      "Ownership %": "28.7"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Martinelli",
+      "Net Transfers": "28028",
+      "Change %": "0.6",
+      "Ownership %": "47.6"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "24985",
+      "Change %": "0.4",
+      "Ownership %": "54.5"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Firmino",
+      "Net Transfers": "24847",
+      "Change %": "4.8",
+      "Ownership %": "5.1"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Saka",
+      "Net Transfers": "24632",
+      "Change %": "1.9",
+      "Ownership %": "12.7"
+    },
+    {
+      "Date": 1665687769000.0,
+      "Name": "Antony",
+      "Net Transfers": "24372",
+      "Change %": "2.8",
+      "Ownership %": "8.5"
+    }
+  ],
+  [
+    {
+      "Date": 1665601037000.0,
+      "Name": "Foden",
+      "Net Transfers": "44452",
+      "Change %": "2.3",
+      "Ownership %": "18.7"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Trippier",
+      "Net Transfers": "36936",
+      "Change %": "0.6",
+      "Ownership %": "53.8"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Trossard",
+      "Net Transfers": "35258",
+      "Change %": "2.4",
+      "Ownership %": "14.0"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "31609",
+      "Change %": "0.5",
+      "Ownership %": "54.3"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Martinelli",
+      "Net Transfers": "29059",
+      "Change %": "0.6",
+      "Ownership %": "47.3"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Saka",
+      "Net Transfers": "27150",
+      "Change %": "2.1",
+      "Ownership %": "12.5"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Antony",
+      "Net Transfers": "26876",
+      "Change %": "3.1",
+      "Ownership %": "8.3"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Dier",
+      "Net Transfers": "26027",
+      "Change %": "3.0",
+      "Ownership %": "8.4"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Saliba",
+      "Net Transfers": "24140",
+      "Change %": "0.8",
+      "Ownership %": "28.4"
+    },
+    {
+      "Date": 1665601037000.0,
+      "Name": "Mount",
+      "Net Transfers": "17814",
+      "Change %": "4.3",
+      "Ownership %": "4.1"
+    }
+  ],
+  [
+    {
+      "Date": 1665514773000.0,
+      "Name": "Foden",
+      "Net Transfers": "84171",
+      "Change %": "4.5",
+      "Ownership %": "18.2"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Trossard",
+      "Net Transfers": "54176",
+      "Change %": "3.9",
+      "Ownership %": "13.7"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Antony",
+      "Net Transfers": "54078",
+      "Change %": "6.8",
+      "Ownership %": "8.0"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Martinelli",
+      "Net Transfers": "52865",
+      "Change %": "1.1",
+      "Ownership %": "47.0"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Saka",
+      "Net Transfers": "50177",
+      "Change %": "4.0",
+      "Ownership %": "12.2"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Trippier",
+      "Net Transfers": "49561",
+      "Change %": "0.9",
+      "Ownership %": "53.4"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "48113",
+      "Change %": "0.8",
+      "Ownership %": "54.0"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Maddison",
+      "Net Transfers": "34751",
+      "Change %": "1.8",
+      "Ownership %": "18.6"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Dier",
+      "Net Transfers": "28408",
+      "Change %": "3.4",
+      "Ownership %": "8.1"
+    },
+    {
+      "Date": 1665514773000.0,
+      "Name": "Saliba",
+      "Net Transfers": "27476",
+      "Change %": "0.9",
+      "Ownership %": "28.2"
+    }
+  ],
+  [
+    {
+      "Date": 1665428340000.0,
+      "Name": "Foden",
+      "Net Transfers": "222019",
+      "Change %": "13.6",
+      "Ownership %": "17.4"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "139011",
+      "Change %": "2.5",
+      "Ownership %": "53.5"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Trippier",
+      "Net Transfers": "133298",
+      "Change %": "2.4",
+      "Ownership %": "53.0"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Martinelli",
+      "Net Transfers": "112216",
+      "Change %": "2.3",
+      "Ownership %": "46.5"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Antony",
+      "Net Transfers": "105326",
+      "Change %": "15.2",
+      "Ownership %": "7.5"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Trossard",
+      "Net Transfers": "102396",
+      "Change %": "7.9",
+      "Ownership %": "13.2"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Saka",
+      "Net Transfers": "81109",
+      "Change %": "7.0",
+      "Ownership %": "11.7"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Saliba",
+      "Net Transfers": "66458",
+      "Change %": "2.3",
+      "Ownership %": "27.9"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Dier",
+      "Net Transfers": "66189",
+      "Change %": "8.7",
+      "Ownership %": "7.8"
+    },
+    {
+      "Date": 1665428340000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "65074",
+      "Change %": "11.8",
+      "Ownership %": "5.8"
+    }
+  ],
+  [
+    {
+      "Date": 1665253113000.0,
+      "Name": "Maddison",
+      "Net Transfers": "253310",
+      "Change %": "15.6",
+      "Ownership %": "17.7"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Foden",
+      "Net Transfers": "219093",
+      "Change %": "15.7",
+      "Ownership %": "15.2"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Trossard",
+      "Net Transfers": "181176",
+      "Change %": "16.4",
+      "Ownership %": "12.1"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Trippier",
+      "Net Transfers": "119949",
+      "Change %": "2.2",
+      "Ownership %": "51.7"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Zaha",
+      "Net Transfers": "115677",
+      "Change %": "5.9",
+      "Ownership %": "19.6"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "James",
+      "Net Transfers": "101738",
+      "Change %": "2.5",
+      "Ownership %": "39.9"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Rashford",
+      "Net Transfers": "93685",
+      "Change %": "6.2",
+      "Ownership %": "15.2"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "82868",
+      "Change %": "17.7",
+      "Ownership %": "5.2"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "67413",
+      "Change %": "1.8",
+      "Ownership %": "35.8"
+    },
+    {
+      "Date": 1665253113000.0,
+      "Name": "Aubameyang",
+      "Net Transfers": "62136",
+      "Change %": "27.7",
+      "Ownership %": "2.7"
+    }
+  ],
+  [
+    {
+      "Date": 1665176373000.0,
+      "Name": "Maddison",
+      "Net Transfers": "184766",
+      "Change %": "12.8",
+      "Ownership %": "15.4"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Foden",
+      "Net Transfers": "126567",
+      "Change %": "9.9",
+      "Ownership %": "13.3"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Trossard",
+      "Net Transfers": "120594",
+      "Change %": "12.0",
+      "Ownership %": "10.6"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "James",
+      "Net Transfers": "88149",
+      "Change %": "2.2",
+      "Ownership %": "39.0"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Trippier",
+      "Net Transfers": "77635",
+      "Change %": "1.5",
+      "Ownership %": "50.7"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Rashford",
+      "Net Transfers": "77480",
+      "Change %": "5.4",
+      "Ownership %": "14.3"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Zaha",
+      "Net Transfers": "74702",
+      "Change %": "3.9",
+      "Ownership %": "18.6"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Aubameyang",
+      "Net Transfers": "53915",
+      "Change %": "30.1",
+      "Ownership %": "2.2"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "53499",
+      "Change %": "12.6",
+      "Ownership %": "4.5"
+    },
+    {
+      "Date": 1665176373000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "51549",
+      "Change %": "1.4",
+      "Ownership %": "35.3"
+    }
+  ],
+  [
+    {
+      "Date": 1665082922000.0,
+      "Name": "Maddison",
+      "Net Transfers": "64160",
+      "Change %": "4.7",
+      "Ownership %": "13.6"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Foden",
+      "Net Transfers": "46779",
+      "Change %": "3.8",
+      "Ownership %": "12.0"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Trossard",
+      "Net Transfers": "45047",
+      "Change %": "4.7",
+      "Ownership %": "9.4"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "James",
+      "Net Transfers": "42049",
+      "Change %": "1.1",
+      "Ownership %": "38.1"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Trippier",
+      "Net Transfers": "29283",
+      "Change %": "0.6",
+      "Ownership %": "49.9"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Aubameyang",
+      "Net Transfers": "26252",
+      "Change %": "17.1",
+      "Ownership %": "1.7"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "22099",
+      "Change %": "0.6",
+      "Ownership %": "34.8"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Haaland",
+      "Net Transfers": "20032",
+      "Change %": "0.2",
+      "Ownership %": "83.0"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "17797",
+      "Change %": "4.5",
+      "Ownership %": "3.9"
+    },
+    {
+      "Date": 1665082922000.0,
+      "Name": "Zaha",
+      "Net Transfers": "17229",
+      "Change %": "0.9",
+      "Ownership %": "17.8"
+    }
+  ],
+  [
+    {
+      "Date": 1664996796000.0,
+      "Name": "Maddison",
+      "Net Transfers": "242897",
+      "Change %": "21.5",
+      "Ownership %": "13.0"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Trossard",
+      "Net Transfers": "139076",
+      "Change %": "17.3",
+      "Ownership %": "8.9"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Foden",
+      "Net Transfers": "129577",
+      "Change %": "11.9",
+      "Ownership %": "11.5"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Trippier",
+      "Net Transfers": "94232",
+      "Change %": "1.8",
+      "Ownership %": "49.6"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "59487",
+      "Change %": "1.7",
+      "Ownership %": "34.6"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Haaland",
+      "Net Transfers": "48836",
+      "Change %": "0.6",
+      "Ownership %": "82.8"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Saliba",
+      "Net Transfers": "47586",
+      "Change %": "1.7",
+      "Ownership %": "26.5"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "43146",
+      "Change %": "12.0",
+      "Ownership %": "3.8"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Coady",
+      "Net Transfers": "38579",
+      "Change %": "8.6",
+      "Ownership %": "4.6"
+    },
+    {
+      "Date": 1664996796000.0,
+      "Name": "Mings",
+      "Net Transfers": "32278",
+      "Change %": "8.3",
+      "Ownership %": "4.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664823600000.0,
+      "Name": "Trossard",
+      "Net Transfers": "93495",
+      "Change %": "13.4",
+      "Ownership %": "7.5"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Foden",
+      "Net Transfers": "86992",
+      "Change %": "8.8",
+      "Ownership %": "10.2"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Trippier",
+      "Net Transfers": "58583",
+      "Change %": "1.2",
+      "Ownership %": "48.7"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "42911",
+      "Change %": "1.2",
+      "Ownership %": "34.0"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Haaland",
+      "Net Transfers": "31842",
+      "Change %": "0.4",
+      "Ownership %": "82.3"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Saliba",
+      "Net Transfers": "29329",
+      "Change %": "1.1",
+      "Ownership %": "26.0"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "22727",
+      "Change %": "7.0",
+      "Ownership %": "3.3"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Coady",
+      "Net Transfers": "20549",
+      "Change %": "4.9",
+      "Ownership %": "4.2"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Antony",
+      "Net Transfers": "20145",
+      "Change %": "3.5",
+      "Ownership %": "5.6"
+    },
+    {
+      "Date": 1664823600000.0,
+      "Name": "Pope",
+      "Net Transfers": "17818",
+      "Change %": "0.8",
+      "Ownership %": "20.3"
+    }
+  ],
+  [
+    {
+      "Date": 1664748754000.0,
+      "Name": "Trossard",
+      "Net Transfers": "213379",
+      "Change %": "44.2",
+      "Ownership %": "6.6"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Foden",
+      "Net Transfers": "169239",
+      "Change %": "20.9",
+      "Ownership %": "9.3"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Trippier",
+      "Net Transfers": "119387",
+      "Change %": "2.4",
+      "Ownership %": "48.1"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "110464",
+      "Change %": "3.2",
+      "Ownership %": "33.5"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Haaland",
+      "Net Transfers": "63115",
+      "Change %": "0.7",
+      "Ownership %": "82.0"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Saliba",
+      "Net Transfers": "56283",
+      "Change %": "2.1",
+      "Ownership %": "25.7"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Almir\u00f3n",
+      "Net Transfers": "48433",
+      "Change %": "17.4",
+      "Ownership %": "3.1"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Firmino",
+      "Net Transfers": "41768",
+      "Change %": "13.2",
+      "Ownership %": "3.4"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Coady",
+      "Net Transfers": "40497",
+      "Change %": "10.6",
+      "Ownership %": "4.0"
+    },
+    {
+      "Date": 1664748754000.0,
+      "Name": "Pope",
+      "Net Transfers": "37513",
+      "Change %": "1.8",
+      "Ownership %": "20.1"
+    }
+  ],
+  [
+    {
+      "Date": 1664662468000.0,
+      "Name": "Maddison",
+      "Net Transfers": "172906",
+      "Change %": "18.8",
+      "Ownership %": "10.4"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Toney",
+      "Net Transfers": "128176",
+      "Change %": "5.3",
+      "Ownership %": "24.3"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Trippier",
+      "Net Transfers": "104939",
+      "Change %": "2.2",
+      "Ownership %": "46.9"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Trossard",
+      "Net Transfers": "95540",
+      "Change %": "25.3",
+      "Ownership %": "4.5"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Zaha",
+      "Net Transfers": "76845",
+      "Change %": "4.4",
+      "Ownership %": "17.3"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "James",
+      "Net Transfers": "74435",
+      "Change %": "1.9",
+      "Ownership %": "37.1"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Saliba",
+      "Net Transfers": "52871",
+      "Change %": "2.0",
+      "Ownership %": "25.1"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Rodrigo",
+      "Net Transfers": "48758",
+      "Change %": "8.4",
+      "Ownership %": "6.0"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Pope",
+      "Net Transfers": "39291",
+      "Change %": "1.9",
+      "Ownership %": "19.7"
+    },
+    {
+      "Date": 1664662468000.0,
+      "Name": "Solanke",
+      "Net Transfers": "31656",
+      "Change %": "33.4",
+      "Ownership %": "1.2"
+    }
+  ],
+  [
+    {
+      "Date": 1664578195000.0,
+      "Name": "Maddison",
+      "Net Transfers": "171522",
+      "Change %": "22.4",
+      "Ownership %": "8.9"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Toney",
+      "Net Transfers": "139727",
+      "Change %": "6.1",
+      "Ownership %": "23.2"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Zaha",
+      "Net Transfers": "71787",
+      "Change %": "4.3",
+      "Ownership %": "16.6"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "65745",
+      "Change %": "2.0",
+      "Ownership %": "31.9"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Trippier",
+      "Net Transfers": "65087",
+      "Change %": "1.4",
+      "Ownership %": "46.0"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "James",
+      "Net Transfers": "58844",
+      "Change %": "1.6",
+      "Ownership %": "36.5"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Saliba",
+      "Net Transfers": "46810",
+      "Change %": "1.8",
+      "Ownership %": "24.7"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Pope",
+      "Net Transfers": "36733",
+      "Change %": "1.8",
+      "Ownership %": "19.4"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "24023",
+      "Change %": "3.3",
+      "Ownership %": "7.2"
+    },
+    {
+      "Date": 1664578195000.0,
+      "Name": "Luis D\u00edaz",
+      "Net Transfers": "23534",
+      "Change %": "0.8",
+      "Ownership %": "26.8"
+    }
+  ],
+  [
+    {
+      "Date": 1664481528000.0,
+      "Name": "Maddison",
+      "Net Transfers": "54624",
+      "Change %": "7.8",
+      "Ownership %": "7.2"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Toney",
+      "Net Transfers": "44392",
+      "Change %": "2.0",
+      "Ownership %": "21.8"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Zaha",
+      "Net Transfers": "27008",
+      "Change %": "1.6",
+      "Ownership %": "15.9"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "25791",
+      "Change %": "0.8",
+      "Ownership %": "31.2"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Trippier",
+      "Net Transfers": "18994",
+      "Change %": "0.4",
+      "Ownership %": "45.4"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Saliba",
+      "Net Transfers": "17770",
+      "Change %": "0.7",
+      "Ownership %": "24.2"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "James",
+      "Net Transfers": "16381",
+      "Change %": "0.4",
+      "Ownership %": "35.9"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Pope",
+      "Net Transfers": "11713",
+      "Change %": "0.6",
+      "Ownership %": "19.0"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "8887",
+      "Change %": "1.2",
+      "Ownership %": "7.0"
+    },
+    {
+      "Date": 1664481528000.0,
+      "Name": "Solanke",
+      "Net Transfers": "7974",
+      "Change %": "10.5",
+      "Ownership %": "0.8"
+    }
+  ],
+  [
+    {
+      "Date": 1664395077000.0,
+      "Name": "Toney",
+      "Net Transfers": "32854",
+      "Change %": "1.5",
+      "Ownership %": "21.4"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Maddison",
+      "Net Transfers": "32579",
+      "Change %": "4.9",
+      "Ownership %": "6.7"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "18206",
+      "Change %": "0.6",
+      "Ownership %": "31.0"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Zaha",
+      "Net Transfers": "15316",
+      "Change %": "0.9",
+      "Ownership %": "15.6"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Trippier",
+      "Net Transfers": "11661",
+      "Change %": "0.2",
+      "Ownership %": "45.2"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Saliba",
+      "Net Transfers": "11466",
+      "Change %": "0.5",
+      "Ownership %": "24.0"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "James",
+      "Net Transfers": "10600",
+      "Change %": "0.3",
+      "Ownership %": "35.7"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Pope",
+      "Net Transfers": "7225",
+      "Change %": "0.4",
+      "Ownership %": "18.9"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Solanke",
+      "Net Transfers": "6482",
+      "Change %": "9.7",
+      "Ownership %": "0.7"
+    },
+    {
+      "Date": 1664395077000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "5491",
+      "Change %": "0.8",
+      "Ownership %": "6.9"
+    }
+  ],
+  [
+    {
+      "Date": 1664308903000.0,
+      "Name": "Toney",
+      "Net Transfers": "25671",
+      "Change %": "1.2",
+      "Ownership %": "21.1"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Maddison",
+      "Net Transfers": "17900",
+      "Change %": "2.8",
+      "Ownership %": "6.3"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "10977",
+      "Change %": "0.3",
+      "Ownership %": "30.8"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Zaha",
+      "Net Transfers": "9237",
+      "Change %": "0.6",
+      "Ownership %": "15.5"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Saliba",
+      "Net Transfers": "7489",
+      "Change %": "0.3",
+      "Ownership %": "23.9"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "James",
+      "Net Transfers": "7203",
+      "Change %": "0.2",
+      "Ownership %": "35.6"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Trippier",
+      "Net Transfers": "6891",
+      "Change %": "0.1",
+      "Ownership %": "45.1"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Pope",
+      "Net Transfers": "4324",
+      "Change %": "0.2",
+      "Ownership %": "18.8"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "3816",
+      "Change %": "0.5",
+      "Ownership %": "6.8"
+    },
+    {
+      "Date": 1664308903000.0,
+      "Name": "Dalot",
+      "Net Transfers": "3242",
+      "Change %": "0.4",
+      "Ownership %": "7.3"
+    }
+  ],
+  [
+    {
+      "Date": 1664222563000.0,
+      "Name": "Toney",
+      "Net Transfers": "14893",
+      "Change %": "0.7",
+      "Ownership %": "20.8"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Maddison",
+      "Net Transfers": "12790",
+      "Change %": "2.0",
+      "Ownership %": "6.2"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "7303",
+      "Change %": "0.2",
+      "Ownership %": "30.7"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Zaha",
+      "Net Transfers": "6761",
+      "Change %": "0.4",
+      "Ownership %": "15.4"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Saliba",
+      "Net Transfers": "5924",
+      "Change %": "0.2",
+      "Ownership %": "23.8"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Trippier",
+      "Net Transfers": "4988",
+      "Change %": "0.1",
+      "Ownership %": "45.0"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Pope",
+      "Net Transfers": "4225",
+      "Change %": "0.2",
+      "Ownership %": "18.7"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "James",
+      "Net Transfers": "3439",
+      "Change %": "0.1",
+      "Ownership %": "35.6"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Dalot",
+      "Net Transfers": "3335",
+      "Change %": "0.4",
+      "Ownership %": "7.2"
+    },
+    {
+      "Date": 1664222563000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "2860",
+      "Change %": "0.4",
+      "Ownership %": "6.8"
+    }
+  ],
+  [
+    {
+      "Date": 1664135778000.0,
+      "Name": "Maddison",
+      "Net Transfers": "6650",
+      "Change %": "1.1",
+      "Ownership %": "6.0"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Toney",
+      "Net Transfers": "6597",
+      "Change %": "0.3",
+      "Ownership %": "20.7"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Zaha",
+      "Net Transfers": "4594",
+      "Change %": "0.3",
+      "Ownership %": "15.3"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Saliba",
+      "Net Transfers": "4526",
+      "Change %": "0.2",
+      "Ownership %": "23.8"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "4078",
+      "Change %": "0.1",
+      "Ownership %": "30.6"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Dalot",
+      "Net Transfers": "3749",
+      "Change %": "0.5",
+      "Ownership %": "7.2"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Trippier",
+      "Net Transfers": "3479",
+      "Change %": "0.1",
+      "Ownership %": "45.0"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Pope",
+      "Net Transfers": "3153",
+      "Change %": "0.2",
+      "Ownership %": "18.7"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "Son",
+      "Net Transfers": "2492",
+      "Change %": "0.2",
+      "Ownership %": "10.7"
+    },
+    {
+      "Date": 1664135778000.0,
+      "Name": "James",
+      "Net Transfers": "2173",
+      "Change %": "0.1",
+      "Ownership %": "35.5"
+    }
+  ],
+  [
+    {
+      "Date": 1664056045000.0,
+      "Name": "Toney",
+      "Net Transfers": "7393",
+      "Change %": "0.3",
+      "Ownership %": "20.6"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Maddison",
+      "Net Transfers": "7350",
+      "Change %": "1.2",
+      "Ownership %": "6.0"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Saliba",
+      "Net Transfers": "6435",
+      "Change %": "0.3",
+      "Ownership %": "23.7"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Trippier",
+      "Net Transfers": "5402",
+      "Change %": "0.1",
+      "Ownership %": "44.9"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Zaha",
+      "Net Transfers": "5177",
+      "Change %": "0.3",
+      "Ownership %": "15.3"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Pope",
+      "Net Transfers": "5156",
+      "Change %": "0.3",
+      "Ownership %": "18.7"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Son",
+      "Net Transfers": "4549",
+      "Change %": "0.4",
+      "Ownership %": "10.7"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "4310",
+      "Change %": "0.1",
+      "Ownership %": "30.6"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "2916",
+      "Change %": "0.4",
+      "Ownership %": "6.7"
+    },
+    {
+      "Date": 1664056045000.0,
+      "Name": "James",
+      "Net Transfers": "2368",
+      "Change %": "0.1",
+      "Ownership %": "35.5"
+    }
+  ],
+  [
+    {
+      "Date": 1663967158000.0,
+      "Name": "Saliba",
+      "Net Transfers": "10328",
+      "Change %": "0.4",
+      "Ownership %": "23.6"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Toney",
+      "Net Transfers": "8936",
+      "Change %": "0.4",
+      "Ownership %": "20.5"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Maddison",
+      "Net Transfers": "8614",
+      "Change %": "1.4",
+      "Ownership %": "5.9"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Trippier",
+      "Net Transfers": "7265",
+      "Change %": "0.2",
+      "Ownership %": "44.9"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Zaha",
+      "Net Transfers": "6826",
+      "Change %": "0.4",
+      "Ownership %": "15.2"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Pope",
+      "Net Transfers": "6137",
+      "Change %": "0.3",
+      "Ownership %": "18.6"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "4647",
+      "Change %": "0.1",
+      "Ownership %": "30.5"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Son",
+      "Net Transfers": "4645",
+      "Change %": "0.4",
+      "Ownership %": "10.7"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "4619",
+      "Change %": "0.7",
+      "Ownership %": "6.7"
+    },
+    {
+      "Date": 1663967158000.0,
+      "Name": "Haaland",
+      "Net Transfers": "2935",
+      "Change %": "0.0",
+      "Ownership %": "81.0"
+    }
+  ],
+  [
+    {
+      "Date": 1663874455000.0,
+      "Name": "Saliba",
+      "Net Transfers": "8610",
+      "Change %": "0.4",
+      "Ownership %": "23.5"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Maddison",
+      "Net Transfers": "7221",
+      "Change %": "1.2",
+      "Ownership %": "5.8"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Toney",
+      "Net Transfers": "7095",
+      "Change %": "0.3",
+      "Ownership %": "20.4"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Trippier",
+      "Net Transfers": "5602",
+      "Change %": "0.1",
+      "Ownership %": "44.8"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Zaha",
+      "Net Transfers": "4885",
+      "Change %": "0.3",
+      "Ownership %": "15.1"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Pope",
+      "Net Transfers": "4103",
+      "Change %": "0.2",
+      "Ownership %": "18.5"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "3789",
+      "Change %": "0.6",
+      "Ownership %": "6.6"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Son",
+      "Net Transfers": "3288",
+      "Change %": "0.3",
+      "Ownership %": "10.6"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "3139",
+      "Change %": "0.1",
+      "Ownership %": "30.5"
+    },
+    {
+      "Date": 1663874455000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "2249",
+      "Change %": "0.1",
+      "Ownership %": "32.6"
+    }
+  ],
+  [
+    {
+      "Date": 1663803209000.0,
+      "Name": "Saliba",
+      "Net Transfers": "17859",
+      "Change %": "0.7",
+      "Ownership %": "23.4"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Maddison",
+      "Net Transfers": "14930",
+      "Change %": "2.6",
+      "Ownership %": "5.7"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Trippier",
+      "Net Transfers": "11297",
+      "Change %": "0.2",
+      "Ownership %": "44.8"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Zaha",
+      "Net Transfers": "10094",
+      "Change %": "0.6",
+      "Ownership %": "15.1"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Toney",
+      "Net Transfers": "9558",
+      "Change %": "0.5",
+      "Ownership %": "20.3"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Pope",
+      "Net Transfers": "7613",
+      "Change %": "0.4",
+      "Ownership %": "18.5"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "7410",
+      "Change %": "1.1",
+      "Ownership %": "6.6"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Son",
+      "Net Transfers": "6583",
+      "Change %": "0.6",
+      "Ownership %": "10.6"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "Isak",
+      "Net Transfers": "5720",
+      "Change %": "0.7",
+      "Ownership %": "8.2"
+    },
+    {
+      "Date": 1663803209000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "5054",
+      "Change %": "0.1",
+      "Ownership %": "32.6"
+    }
+  ],
+  [
+    {
+      "Date": 1663703780000.0,
+      "Name": "Saliba",
+      "Net Transfers": "24524",
+      "Change %": "1.0",
+      "Ownership %": "23.3"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Maddison",
+      "Net Transfers": "20689",
+      "Change %": "3.7",
+      "Ownership %": "5.6"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Zaha",
+      "Net Transfers": "15215",
+      "Change %": "1.0",
+      "Ownership %": "15.0"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Trippier",
+      "Net Transfers": "14986",
+      "Change %": "0.3",
+      "Ownership %": "44.6"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "11580",
+      "Change %": "1.7",
+      "Ownership %": "6.5"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Isak",
+      "Net Transfers": "11275",
+      "Change %": "1.3",
+      "Ownership %": "8.1"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Son",
+      "Net Transfers": "10838",
+      "Change %": "1.0",
+      "Ownership %": "10.5"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Pope",
+      "Net Transfers": "10331",
+      "Change %": "0.5",
+      "Ownership %": "18.4"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "Toney",
+      "Net Transfers": "8871",
+      "Change %": "0.4",
+      "Ownership %": "20.2"
+    },
+    {
+      "Date": 1663703780000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "8257",
+      "Change %": "0.2",
+      "Ownership %": "32.5"
+    }
+  ],
+  [
+    {
+      "Date": 1663617558000.0,
+      "Name": "Saliba",
+      "Net Transfers": "45948",
+      "Change %": "1.9",
+      "Ownership %": "23.0"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Maddison",
+      "Net Transfers": "27145",
+      "Change %": "5.0",
+      "Ownership %": "5.4"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Trippier",
+      "Net Transfers": "24158",
+      "Change %": "0.5",
+      "Ownership %": "44.5"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Zaha",
+      "Net Transfers": "19339",
+      "Change %": "1.3",
+      "Ownership %": "14.8"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Isak",
+      "Net Transfers": "18210",
+      "Change %": "2.2",
+      "Ownership %": "8.0"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Son",
+      "Net Transfers": "18157",
+      "Change %": "1.7",
+      "Ownership %": "10.4"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "17561",
+      "Change %": "2.7",
+      "Ownership %": "6.4"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "11958",
+      "Change %": "0.4",
+      "Ownership %": "32.4"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Pope",
+      "Net Transfers": "11753",
+      "Change %": "0.6",
+      "Ownership %": "18.3"
+    },
+    {
+      "Date": 1663617558000.0,
+      "Name": "Toney",
+      "Net Transfers": "10986",
+      "Change %": "0.5",
+      "Ownership %": "20.2"
+    }
+  ],
+  [
+    {
+      "Date": 1663531154000.0,
+      "Name": "Saliba",
+      "Net Transfers": "52011",
+      "Change %": "2.3",
+      "Ownership %": "22.5"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Son",
+      "Net Transfers": "39522",
+      "Change %": "3.9",
+      "Ownership %": "10.2"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Trippier",
+      "Net Transfers": "38720",
+      "Change %": "0.8",
+      "Ownership %": "44.3"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Isak",
+      "Net Transfers": "28781",
+      "Change %": "3.7",
+      "Ownership %": "7.8"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Maddison",
+      "Net Transfers": "28424",
+      "Change %": "5.6",
+      "Ownership %": "5.1"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "21958",
+      "Change %": "3.5",
+      "Ownership %": "6.2"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "20417",
+      "Change %": "0.6",
+      "Ownership %": "32.3"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Dier",
+      "Net Transfers": "20242",
+      "Change %": "3.0",
+      "Ownership %": "6.6"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Zaha",
+      "Net Transfers": "16704",
+      "Change %": "1.1",
+      "Ownership %": "14.7"
+    },
+    {
+      "Date": 1663531154000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "16277",
+      "Change %": "0.3",
+      "Ownership %": "51.2"
+    }
+  ],
+  [
+    {
+      "Date": 1663447302000.0,
+      "Name": "Trippier",
+      "Net Transfers": "33916",
+      "Change %": "0.7",
+      "Ownership %": "43.9"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "26368",
+      "Change %": "0.8",
+      "Ownership %": "32.1"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Isak",
+      "Net Transfers": "18773",
+      "Change %": "2.5",
+      "Ownership %": "7.5"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Toney",
+      "Net Transfers": "17840",
+      "Change %": "0.9",
+      "Ownership %": "19.9"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Haaland",
+      "Net Transfers": "17801",
+      "Change %": "0.2",
+      "Ownership %": "80.6"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Pope",
+      "Net Transfers": "17347",
+      "Change %": "0.9",
+      "Ownership %": "18.0"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Mac Allister",
+      "Net Transfers": "16362",
+      "Change %": "2.7",
+      "Ownership %": "6.0"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Maddison",
+      "Net Transfers": "16293",
+      "Change %": "3.4",
+      "Ownership %": "4.8"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Zaha",
+      "Net Transfers": "14028",
+      "Change %": "0.9",
+      "Ownership %": "14.5"
+    },
+    {
+      "Date": 1663447302000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "13670",
+      "Change %": "0.3",
+      "Ownership %": "51.1"
+    }
+  ],
+  [
+    {
+      "Date": 1663375463000.0,
+      "Name": "Trippier",
+      "Net Transfers": "492192",
+      "Change %": "12.2",
+      "Ownership %": "43.5"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "De Bruyne",
+      "Net Transfers": "401518",
+      "Change %": "13.8",
+      "Ownership %": "31.8"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Pope",
+      "Net Transfers": "331997",
+      "Change %": "21.8",
+      "Ownership %": "17.8"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Mitrovi\u0107",
+      "Net Transfers": "293716",
+      "Change %": "10.2",
+      "Ownership %": "30.5"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Isak",
+      "Net Transfers": "164668",
+      "Change %": "27.6",
+      "Ownership %": "7.3"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Cancelo",
+      "Net Transfers": "151794",
+      "Change %": "2.9",
+      "Ownership %": "51.0"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Kane",
+      "Net Transfers": "140876",
+      "Change %": "7.7",
+      "Ownership %": "18.8"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Gordon",
+      "Net Transfers": "132639",
+      "Change %": "36.1",
+      "Ownership %": "4.8"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Peri\u0161i\u0107",
+      "Net Transfers": "121069",
+      "Change %": "4.4",
+      "Ownership %": "27.8"
+    },
+    {
+      "Date": 1663375463000.0,
+      "Name": "Maddison",
+      "Net Transfers": "111498",
+      "Change %": "29.5",
+      "Ownership %": "4.7"
+    }
+  ]
+]
