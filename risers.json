@@ -1,38 +1,654 @@
 [
-  {
-    "Name": "Solanke",
-    "Team": "Bournemouth",
-    "Position": "Forward",
-    "Ownership": "2.8%",
-    "Price": "\u00a35.8",
-    "\u2206": "+\u00a30.1",
-    "Form": "6.0"
-  },
-  {
-    "Name": "Toney",
-    "Team": "Brentford",
-    "Position": "Forward",
-    "Ownership": "25.0%",
-    "Price": "\u00a37.4",
-    "\u2206": "+\u00a30.1",
-    "Form": "5.0"
-  },
-  {
-    "Name": "Mount",
-    "Team": "Chelsea",
-    "Position": "Midfielder",
-    "Ownership": "7.5%",
-    "Price": "\u00a37.7",
-    "\u2206": "+\u00a30.1",
-    "Form": "9.3"
-  },
-  {
-    "Name": "Trippier",
-    "Team": "Newcastle",
-    "Position": "Defender",
-    "Ownership": "56.9%",
-    "Price": "\u00a35.7",
-    "\u2206": "+\u00a30.1",
-    "Form": "6.2"
-  }
+  [
+    {
+      "Date": 1665970264000.0,
+      "Name": "Solanke",
+      "Team": "Bournemouth",
+      "Position": "Forward",
+      "Ownership": "2.8",
+      "Price": "5.8",
+      "Delta": "+0.1",
+      "Form": "6.0"
+    },
+    {
+      "Date": 1665970264000.0,
+      "Name": "Toney",
+      "Team": "Brentford",
+      "Position": "Forward",
+      "Ownership": "25.0",
+      "Price": "7.4",
+      "Delta": "+0.1",
+      "Form": "5.0"
+    },
+    {
+      "Date": 1665970264000.0,
+      "Name": "Mount",
+      "Team": "Chelsea",
+      "Position": "Midfielder",
+      "Ownership": "7.5",
+      "Price": "7.7",
+      "Delta": "+0.1",
+      "Form": "9.3"
+    },
+    {
+      "Date": 1665970264000.0,
+      "Name": "Trippier",
+      "Team": "Newcastle",
+      "Position": "Defender",
+      "Ownership": "56.9",
+      "Price": "5.7",
+      "Delta": "+0.1",
+      "Form": "6.2"
+    }
+  ],
+  [
+    {
+      "Date": 1665883864000.0,
+      "Name": "Trossard",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "17.0",
+      "Price": "6.9",
+      "Delta": "+0.1",
+      "Form": "8.0"
+    },
+    {
+      "Date": 1665883864000.0,
+      "Name": "Foden",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "20.1",
+      "Price": "8.3",
+      "Delta": "+0.1",
+      "Form": "9.5"
+    },
+    {
+      "Date": 1665883864000.0,
+      "Name": "Rashford",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "16.2",
+      "Price": "6.6",
+      "Delta": "+0.1",
+      "Form": "1.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665797463000.0,
+      "Name": "Saka",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "13.4",
+      "Price": "7.9",
+      "Delta": "+0.1",
+      "Form": "6.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Martinelli",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "48.2",
+      "Price": "6.7",
+      "Delta": "+0.1",
+      "Form": "4.8"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Zaha",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "20.9",
+      "Price": "7.5",
+      "Delta": "+0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Eze",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "2.6",
+      "Price": "5.6",
+      "Delta": "+0.1",
+      "Form": "4.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Bruno Guimar\u00e3es",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "3.8",
+      "Price": "5.7",
+      "Delta": "+0.1",
+      "Form": "5.2"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Son",
+      "Team": "Spurs",
+      "Position": "Midfielder",
+      "Ownership": "11.9",
+      "Price": "11.8",
+      "Delta": "+0.1",
+      "Form": "6.8"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "S\u00e1",
+      "Team": "Wolves",
+      "Position": "Goalkeeper",
+      "Ownership": "6.7",
+      "Price": "5.1",
+      "Delta": "+0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Kilman",
+      "Team": "Wolves",
+      "Position": "Defender",
+      "Ownership": "3.0",
+      "Price": "4.6",
+      "Delta": "+0.1",
+      "Form": "0.8"
+    }
+  ],
+  [
+    {
+      "Date": 1665711068000.0,
+      "Name": "Scamacca",
+      "Team": "West Ham",
+      "Position": "Forward",
+      "Ownership": "1.9",
+      "Price": "6.8",
+      "Delta": "+0.1",
+      "Form": "5.7"
+    }
+  ],
+  [
+    {
+      "Date": 1665624664000.0,
+      "Name": "Saliba",
+      "Team": "Arsenal",
+      "Position": "Defender",
+      "Ownership": "28.5",
+      "Price": "5.1",
+      "Delta": "+0.1",
+      "Form": "5.7"
+    },
+    {
+      "Date": 1665624664000.0,
+      "Name": "Dier",
+      "Team": "Spurs",
+      "Position": "Defender",
+      "Ownership": "8.4",
+      "Price": "5.2",
+      "Delta": "+0.1",
+      "Form": "4.3"
+    }
+  ],
+  [
+    {
+      "Date": 1665538264000.0,
+      "Name": "Maddison",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "18.6",
+      "Price": "8.3",
+      "Delta": "+0.1",
+      "Form": "8.7"
+    },
+    {
+      "Date": 1665538264000.0,
+      "Name": "Almir\u00f3n",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "6.1",
+      "Price": "5.2",
+      "Delta": "+0.1",
+      "Form": "8.0"
+    },
+    {
+      "Date": 1665538264000.0,
+      "Name": "Bowen",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "5.1",
+      "Price": "8.2",
+      "Delta": "+0.1",
+      "Form": "7.7"
+    }
+  ],
+  [
+    {
+      "Date": 1665451863000.0,
+      "Name": "Mings",
+      "Team": "Aston Villa",
+      "Position": "Defender",
+      "Ownership": "5.0",
+      "Price": "4.4",
+      "Delta": "+0.1",
+      "Form": "5.7"
+    }
+  ],
+  [
+    {
+      "Date": 1665365463000.0,
+      "Name": "Antony",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "7.0",
+      "Price": "7.6",
+      "Delta": "+0.1",
+      "Form": "7.5"
+    },
+    {
+      "Date": 1665365463000.0,
+      "Name": "Trippier",
+      "Team": "Newcastle",
+      "Position": "Defender",
+      "Ownership": "52.5",
+      "Price": "5.6",
+      "Delta": "+0.1",
+      "Form": "6.3"
+    }
+  ],
+  [
+    {
+      "Date": 1665279063000.0,
+      "Name": "Trossard",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "12.2",
+      "Price": "6.8",
+      "Delta": "+0.1",
+      "Form": "11.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Firmino",
+      "Team": "Liverpool",
+      "Position": "Forward",
+      "Ownership": "4.4",
+      "Price": "8.0",
+      "Delta": "+0.1",
+      "Form": "6.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Cancelo",
+      "Team": "Man City",
+      "Position": "Defender",
+      "Ownership": "52.3",
+      "Price": "7.3",
+      "Delta": "+0.1",
+      "Form": "9.3"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Foden",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "15.5",
+      "Price": "8.2",
+      "Delta": "+0.1",
+      "Form": "12.7"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Wilson",
+      "Team": "Newcastle",
+      "Position": "Forward",
+      "Ownership": "2.3",
+      "Price": "7.3",
+      "Delta": "+0.1",
+      "Form": "3.7"
+    }
+  ],
+  [
+    {
+      "Date": 1665192664000.0,
+      "Name": "Aubameyang",
+      "Team": "Chelsea",
+      "Position": "Forward",
+      "Ownership": "2.3",
+      "Price": "9.1",
+      "Delta": "+0.1",
+      "Form": "9.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Zaha",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "18.9",
+      "Price": "7.4",
+      "Delta": "+0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Maddison",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "15.9",
+      "Price": "8.2",
+      "Delta": "+0.2",
+      "Form": "12.5"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Sch\u00e4r",
+      "Team": "Newcastle",
+      "Position": "Defender",
+      "Ownership": "10.0",
+      "Price": "4.8",
+      "Delta": "+0.1",
+      "Form": "4.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665106263000.0,
+      "Name": "James",
+      "Team": "Chelsea",
+      "Position": "Defender",
+      "Ownership": "38.3",
+      "Price": "6.1",
+      "Delta": "+0.1",
+      "Form": "2.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665019863000.0,
+      "Name": "Haaland",
+      "Team": "Man City",
+      "Position": "Forward",
+      "Ownership": "82.8",
+      "Price": "12.2",
+      "Delta": "+0.1",
+      "Form": "14.5"
+    }
+  ],
+  [
+    {
+      "Date": 1664933463000.0,
+      "Name": "Coady",
+      "Team": "Everton",
+      "Position": "Defender",
+      "Ownership": "4.5",
+      "Price": "4.9",
+      "Delta": "+0.1",
+      "Form": "7.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664847063000.0,
+      "Name": "Saliba",
+      "Team": "Arsenal",
+      "Position": "Defender",
+      "Ownership": "26.1",
+      "Price": "5.0",
+      "Delta": "+0.1",
+      "Form": "5.3"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Ward",
+      "Team": "Leicester",
+      "Position": "Goalkeeper",
+      "Ownership": "25.7",
+      "Price": "4.1",
+      "Delta": "+0.1",
+      "Form": "3.3"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Maddison",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "11.4",
+      "Price": "8.1",
+      "Delta": "+0.1",
+      "Form": "9.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "De Bruyne",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "34.1",
+      "Price": "12.4",
+      "Delta": "+0.1",
+      "Form": "9.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664760668000.0,
+      "Name": "Trossard",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "6.7",
+      "Price": "6.7",
+      "Delta": "+0.1",
+      "Form": "16.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Foden",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "9.5",
+      "Price": "8.1",
+      "Delta": "+0.1",
+      "Form": "9.7"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Trippier",
+      "Team": "Newcastle",
+      "Position": "Defender",
+      "Ownership": "48.2",
+      "Price": "5.5",
+      "Delta": "+0.1",
+      "Form": "6.7"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Almir\u00f3n",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "3.1",
+      "Price": "5.1",
+      "Delta": "+0.1",
+      "Form": "6.7"
+    }
+  ],
+  [],
+  [
+    {
+      "Date": 1664587863000.0,
+      "Name": "Mac Allister",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "7.2",
+      "Price": "5.7",
+      "Delta": "+0.1",
+      "Form": "14.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Zaha",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "16.7",
+      "Price": "7.3",
+      "Delta": "+0.1",
+      "Form": "3.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Pope",
+      "Team": "Newcastle",
+      "Position": "Goalkeeper",
+      "Ownership": "19.4",
+      "Price": "5.3",
+      "Delta": "+0.1",
+      "Form": "7.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664501463000.0,
+      "Name": "Maddison",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "7.4",
+      "Price": "8.0",
+      "Delta": "+0.1",
+      "Form": "3.3"
+    },
+    {
+      "Date": 1664501463000.0,
+      "Name": "Haaland",
+      "Team": "Man City",
+      "Position": "Forward",
+      "Ownership": "81.1",
+      "Price": "12.1",
+      "Delta": "+0.1",
+      "Form": "10.7"
+    }
+  ],
+  [
+    {
+      "Date": 1664415062000.0,
+      "Name": "Xhaka",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "3.0",
+      "Price": "5.1",
+      "Delta": "+0.1",
+      "Form": "3.0"
+    },
+    {
+      "Date": 1664415062000.0,
+      "Name": "Malacia",
+      "Team": "Man Utd",
+      "Position": "Defender",
+      "Ownership": "4.0",
+      "Price": "4.5",
+      "Delta": "+0.1",
+      "Form": "3.5"
+    }
+  ],
+  [
+    {
+      "Date": 1664328663000.0,
+      "Name": "Toney",
+      "Team": "Brentford",
+      "Position": "Forward",
+      "Ownership": "21.1",
+      "Price": "7.3",
+      "Delta": "+0.1",
+      "Form": "6.7"
+    },
+    {
+      "Date": 1664328663000.0,
+      "Name": "Trossard",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "3.5",
+      "Price": "6.6",
+      "Delta": "+0.1",
+      "Form": "7.0"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "Date": 1663723862000.0,
+      "Name": "Isak",
+      "Team": "Newcastle",
+      "Position": "Forward",
+      "Ownership": "8.1",
+      "Price": "7.1",
+      "Delta": "+0.1",
+      "Form": "4.5"
+    }
+  ],
+  [],
+  [
+    {
+      "Date": 1663551062000.0,
+      "Name": "Saliba",
+      "Team": "Arsenal",
+      "Position": "Defender",
+      "Ownership": "22.7",
+      "Price": "4.9",
+      "Delta": "+0.1",
+      "Form": "7.4"
+    },
+    {
+      "Date": 1663551062000.0,
+      "Name": "Trippier",
+      "Team": "Newcastle",
+      "Position": "Defender",
+      "Ownership": "44.3",
+      "Price": "5.4",
+      "Delta": "+0.1",
+      "Form": "4.2"
+    },
+    {
+      "Date": 1663551062000.0,
+      "Name": "Dier",
+      "Team": "Spurs",
+      "Position": "Defender",
+      "Ownership": "6.6",
+      "Price": "5.1",
+      "Delta": "+0.1",
+      "Form": "4.8"
+    }
+  ],
+  [],
+  [
+    {
+      "Date": 1663378263000.0,
+      "Name": "Martinelli",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "48.0",
+      "Price": "6.6",
+      "Delta": "+0.1",
+      "Form": "4.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Gordon",
+      "Team": "Everton",
+      "Position": "Midfielder",
+      "Ownership": "4.8",
+      "Price": "5.6",
+      "Delta": "+0.1",
+      "Form": "3.6"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "De Bruyne",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "31.8",
+      "Price": "12.3",
+      "Delta": "+0.1",
+      "Form": "3.0"
+    }
+  ]
 ]

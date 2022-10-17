@@ -1,38 +1,1811 @@
 [
-  {
-    "Name": "Nakamba",
-    "Team": "Aston Villa",
-    "Position": "Midfielder",
-    "Ownership": "0.2%",
-    "Price": "\u00a34.3",
-    "\u2206": "-\u00a30.1",
-    "Form": "0.0"
-  },
-  {
-    "Name": "Malacia",
-    "Team": "Man Utd",
-    "Position": "Defender",
-    "Ownership": "3.4%",
-    "Price": "\u00a34.4",
-    "\u2206": "-\u00a30.1",
-    "Form": "-0.7"
-  },
-  {
-    "Name": "Awoniyi",
-    "Team": "Nott'm Forest",
-    "Position": "Forward",
-    "Ownership": "0.6%",
-    "Price": "\u00a35.7",
-    "\u2206": "-\u00a30.1",
-    "Form": "1.0"
-  },
-  {
-    "Name": "Lingard",
-    "Team": "Nott'm Forest",
-    "Position": "Midfielder",
-    "Ownership": "1.8%",
-    "Price": "\u00a35.5",
-    "\u2206": "-\u00a30.1",
-    "Form": "0.7"
-  }
+  [
+    {
+      "Date": 1665970264000.0,
+      "Name": "Nakamba",
+      "Team": "Aston Villa",
+      "Position": "Midfielder",
+      "Ownership": "0.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665970264000.0,
+      "Name": "Malacia",
+      "Team": "Man Utd",
+      "Position": "Defender",
+      "Ownership": "3.4",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "-0.7"
+    },
+    {
+      "Date": 1665970264000.0,
+      "Name": "Awoniyi",
+      "Team": "Nott'm Forest",
+      "Position": "Forward",
+      "Ownership": "0.6",
+      "Price": "5.7",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665970264000.0,
+      "Name": "Lingard",
+      "Team": "Nott'm Forest",
+      "Position": "Midfielder",
+      "Ownership": "1.8",
+      "Price": "5.5",
+      "Delta": "-0.1",
+      "Form": "0.7"
+    }
+  ],
+  [
+    {
+      "Date": 1665883864000.0,
+      "Name": "Patterson",
+      "Team": "Everton",
+      "Position": "Defender",
+      "Ownership": "4.9",
+      "Price": "4.0",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665883864000.0,
+      "Name": "Praet",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665883864000.0,
+      "Name": "Arthur",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665797463000.0,
+      "Name": "Dendoncker",
+      "Team": "Aston Villa",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Lerma",
+      "Team": "Bournemouth",
+      "Position": "Midfielder",
+      "Ownership": "0.6",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Gro\u00df",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "19.5",
+      "Price": "5.8",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "James",
+      "Team": "Chelsea",
+      "Position": "Defender",
+      "Ownership": "31.8",
+      "Price": "6.0",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Sterling",
+      "Team": "Chelsea",
+      "Position": "Midfielder",
+      "Ownership": "7.8",
+      "Price": "9.9",
+      "Delta": "-0.1",
+      "Form": "0.7"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Townsend",
+      "Team": "Everton",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "5.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Gordon",
+      "Team": "Everton",
+      "Position": "Midfielder",
+      "Ownership": "2.5",
+      "Price": "5.4",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Iheanacho",
+      "Team": "Leicester",
+      "Position": "Forward",
+      "Ownership": "0.5",
+      "Price": "6.1",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Harrison",
+      "Team": "Leeds",
+      "Position": "Midfielder",
+      "Ownership": "3.4",
+      "Price": "6.0",
+      "Delta": "-0.1",
+      "Form": "1.7"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Milner",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "1.0",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Alexander-Arnold",
+      "Team": "Liverpool",
+      "Position": "Defender",
+      "Ownership": "19.8",
+      "Price": "7.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Bernardo",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "10.5",
+      "Price": "6.9",
+      "Delta": "-0.1",
+      "Form": "3.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Martial",
+      "Team": "Man Utd",
+      "Position": "Forward",
+      "Ownership": "1.6",
+      "Price": "6.8",
+      "Delta": "-0.1",
+      "Form": "4.7"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Garnacho",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Joelinton",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "0.7",
+      "Price": "5.9",
+      "Delta": "-0.1",
+      "Form": "1.2"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Perraud",
+      "Team": "Southampton",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Coufal",
+      "Team": "West Ham",
+      "Position": "Defender",
+      "Ownership": "1.0",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Rice",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "4.1",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Downes",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "0.3",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.2"
+    },
+    {
+      "Date": 1665797463000.0,
+      "Name": "Bueno",
+      "Team": "Wolves",
+      "Position": "Defender",
+      "Ownership": "0.7",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665711068000.0,
+      "Name": "Nketiah",
+      "Team": "Arsenal",
+      "Position": "Forward",
+      "Ownership": "0.3",
+      "Price": "6.5",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665711068000.0,
+      "Name": "Demb\u00e9l\u00e9",
+      "Team": "Bournemouth",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665711068000.0,
+      "Name": "Jansson",
+      "Team": "Brentford",
+      "Position": "Defender",
+      "Ownership": "0.7",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": 1665711068000.0,
+      "Name": "Mitrovi\u0107",
+      "Team": "Fulham",
+      "Position": "Forward",
+      "Ownership": "22.4",
+      "Price": "6.7",
+      "Delta": "-0.1",
+      "Form": "0.7"
+    },
+    {
+      "Date": 1665711068000.0,
+      "Name": "Elyounoussi",
+      "Team": "Southampton",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "1.3"
+    }
+  ],
+  [
+    {
+      "Date": 1665624664000.0,
+      "Name": "Diego Carlos",
+      "Team": "Aston Villa",
+      "Position": "Defender",
+      "Ownership": "0.2",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665624664000.0,
+      "Name": "Strakosha",
+      "Team": "Brentford",
+      "Position": "Goalkeeper",
+      "Ownership": "0.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665624664000.0,
+      "Name": "Mateta",
+      "Team": "Crystal Palace",
+      "Position": "Forward",
+      "Ownership": "0.4",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665624664000.0,
+      "Name": "Kurzawa",
+      "Team": "Fulham",
+      "Position": "Defender",
+      "Ownership": "0.0",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665624664000.0,
+      "Name": "Forshaw",
+      "Team": "Leeds",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665538264000.0,
+      "Name": "Onomah",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1665538264000.0,
+      "Name": "Bamford",
+      "Team": "Leeds",
+      "Position": "Forward",
+      "Ownership": "0.4",
+      "Price": "7.2",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665538264000.0,
+      "Name": "Ortega",
+      "Team": "Man City",
+      "Position": "Goalkeeper",
+      "Ownership": "0.5",
+      "Price": "3.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665538264000.0,
+      "Name": "Isak",
+      "Team": "Newcastle",
+      "Position": "Forward",
+      "Ownership": "2.3",
+      "Price": "6.8",
+      "Delta": "-0.1",
+      "Form": "3.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665451863000.0,
+      "Name": "Bailey",
+      "Team": "Aston Villa",
+      "Position": "Midfielder",
+      "Ownership": "5.5",
+      "Price": "4.6",
+      "Delta": "-0.1",
+      "Form": "1.7"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Milivojevic",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "0.4",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Schlupp",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Fabinho",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "1.0",
+      "Price": "5.3",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Luis D\u00edaz",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "19.9",
+      "Price": "8.0",
+      "Delta": "-0.1",
+      "Form": "3.5"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Wilson-Esbrand",
+      "Team": "Man City",
+      "Position": "Defender",
+      "Ownership": "0.6",
+      "Price": "3.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Fred",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "0.4",
+      "Price": "5.1",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1665451863000.0,
+      "Name": "Johnson",
+      "Team": "Nott'm Forest",
+      "Position": "Forward",
+      "Ownership": "1.3",
+      "Price": "5.8",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665365463000.0,
+      "Name": "Dasilva",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "5.9",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "1.3"
+    },
+    {
+      "Date": 1665365463000.0,
+      "Name": "Cairney",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665365463000.0,
+      "Name": "G\u00fcndogan",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "3.1",
+      "Price": "7.4",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665365463000.0,
+      "Name": "Sarr",
+      "Team": "Spurs",
+      "Position": "Midfielder",
+      "Ownership": "0.5",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665279063000.0,
+      "Name": "Digne",
+      "Team": "Aston Villa",
+      "Position": "Defender",
+      "Ownership": "1.5",
+      "Price": "4.6",
+      "Delta": "-0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Jensen",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "2.5",
+      "Price": "5.0",
+      "Delta": "-0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Holgate",
+      "Team": "Everton",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Klaesson",
+      "Team": "Leeds",
+      "Position": "Goalkeeper",
+      "Ownership": "0.4",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Walker",
+      "Team": "Man City",
+      "Position": "Defender",
+      "Ownership": "5.3",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Palmer",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Elanga",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "0.6",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Heaton",
+      "Team": "Man Utd",
+      "Position": "Goalkeeper",
+      "Ownership": "0.4",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Saint-Maximin",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "4.9",
+      "Price": "6.3",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Peri\u0161i\u0107",
+      "Team": "Spurs",
+      "Position": "Defender",
+      "Ownership": "24.8",
+      "Price": "5.5",
+      "Delta": "-0.1",
+      "Form": "1.3"
+    },
+    {
+      "Date": 1665279063000.0,
+      "Name": "Neto",
+      "Team": "Wolves",
+      "Position": "Midfielder",
+      "Ownership": "3.2",
+      "Price": "5.0",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665192664000.0,
+      "Name": "\u00d8degaard",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "14.4",
+      "Price": "6.4",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "N\u00f8rgaard",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Lewis-Potter",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Ziyech",
+      "Team": "Chelsea",
+      "Position": "Midfielder",
+      "Ownership": "0.3",
+      "Price": "5.6",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Gordon",
+      "Team": "Everton",
+      "Position": "Midfielder",
+      "Ownership": "4.0",
+      "Price": "5.5",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Salah",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "29.8",
+      "Price": "12.7",
+      "Delta": "-0.1",
+      "Form": "5.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Rodri",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "1.8",
+      "Price": "5.7",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665192664000.0,
+      "Name": "Benrahma",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "0.9",
+      "Price": "5.6",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    }
+  ],
+  [
+    {
+      "Date": 1665106263000.0,
+      "Name": "Kebano",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.4",
+      "Delta": "-0.1",
+      "Form": "2.5"
+    },
+    {
+      "Date": 1665106263000.0,
+      "Name": "Mitrovi\u0107",
+      "Team": "Fulham",
+      "Position": "Forward",
+      "Ownership": "27.7",
+      "Price": "6.8",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665106263000.0,
+      "Name": "Klich",
+      "Team": "Leeds",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665106263000.0,
+      "Name": "Dubravka",
+      "Team": "Man Utd",
+      "Position": "Goalkeeper",
+      "Ownership": "0.5",
+      "Price": "4.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665106263000.0,
+      "Name": "Boly",
+      "Team": "Nott'm Forest",
+      "Position": "Defender",
+      "Ownership": "0.2",
+      "Price": "4.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1665019863000.0,
+      "Name": "Kamara",
+      "Team": "Aston Villa",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Alexander-Arnold",
+      "Team": "Liverpool",
+      "Position": "Defender",
+      "Ownership": "31.4",
+      "Price": "7.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Toffolo",
+      "Team": "Nott'm Forest",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Ward-Prowse",
+      "Team": "Southampton",
+      "Position": "Midfielder",
+      "Ownership": "7.9",
+      "Price": "6.4",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Edozie",
+      "Team": "Southampton",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Emerson Royal",
+      "Team": "Spurs",
+      "Position": "Defender",
+      "Ownership": "3.9",
+      "Price": "5.0",
+      "Delta": "-0.1",
+      "Form": "-0.5"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Antonio",
+      "Team": "West Ham",
+      "Position": "Forward",
+      "Ownership": "1.8",
+      "Price": "7.1",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1665019863000.0,
+      "Name": "Fornals",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "0.8",
+      "Price": "5.3",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    }
+  ],
+  [
+    {
+      "Date": 1664933463000.0,
+      "Name": "Kelly",
+      "Team": "Bournemouth",
+      "Position": "Defender",
+      "Ownership": "0.9",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664933463000.0,
+      "Name": "Gro\u00df",
+      "Team": "Brighton",
+      "Position": "Midfielder",
+      "Ownership": "22.1",
+      "Price": "5.9",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1664933463000.0,
+      "Name": "Mills",
+      "Team": "Everton",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664933463000.0,
+      "Name": "Worrall",
+      "Team": "Nott'm Forest",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    }
+  ],
+  [
+    {
+      "Date": 1664847063000.0,
+      "Name": "Lowe",
+      "Team": "Bournemouth",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Ghoddos",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Roerslev",
+      "Team": "Brentford",
+      "Position": "Defender",
+      "Ownership": "0.0",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Onyeka",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Luis D\u00edaz",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "25.8",
+      "Price": "8.1",
+      "Delta": "-0.1",
+      "Form": "4.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Mahrez",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "1.5",
+      "Price": "7.5",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Dias",
+      "Team": "Man City",
+      "Position": "Defender",
+      "Ownership": "9.7",
+      "Price": "5.9",
+      "Delta": "-0.1",
+      "Form": "3.0"
+    },
+    {
+      "Date": 1664847063000.0,
+      "Name": "Ogbonna",
+      "Team": "West Ham",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664760668000.0,
+      "Name": "Buend\u00eda",
+      "Team": "Aston Villa",
+      "Position": "Midfielder",
+      "Ownership": "0.4",
+      "Price": "5.8",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Guilbert",
+      "Team": "Aston Villa",
+      "Position": "Defender",
+      "Ownership": "0.8",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Ebiowei",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Ndidi",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "0.3",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Harrison",
+      "Team": "Leeds",
+      "Position": "Midfielder",
+      "Ownership": "4.5",
+      "Price": "6.1",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Darwin",
+      "Team": "Liverpool",
+      "Position": "Forward",
+      "Ownership": "6.0",
+      "Price": "8.8",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Arthur",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Rashford",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "13.5",
+      "Price": "6.5",
+      "Delta": "-0.1",
+      "Form": "9.5"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Isak",
+      "Team": "Newcastle",
+      "Position": "Forward",
+      "Ownership": "4.4",
+      "Price": "6.9",
+      "Delta": "-0.1",
+      "Form": "3.7"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Lingard",
+      "Team": "Nott'm Forest",
+      "Position": "Midfielder",
+      "Ownership": "2.3",
+      "Price": "5.6",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664760668000.0,
+      "Name": "Davies",
+      "Team": "Spurs",
+      "Position": "Defender",
+      "Ownership": "0.8",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664674263000.0,
+      "Name": "McGinn",
+      "Team": "Aston Villa",
+      "Position": "Midfielder",
+      "Ownership": "0.8",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "1.7"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Azpilicueta",
+      "Team": "Chelsea",
+      "Position": "Defender",
+      "Ownership": "1.4",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Mendy",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "0.5",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Gyabi",
+      "Team": "Leeds",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "G\u00fcndogan",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "4.1",
+      "Price": "7.5",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "\u00c1lvarez",
+      "Team": "Man City",
+      "Position": "Forward",
+      "Ownership": "1.3",
+      "Price": "6.1",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Lewis",
+      "Team": "Man City",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Casemiro",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "1.5",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "McKenna",
+      "Team": "Nott'm Forest",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Hennessey",
+      "Team": "Nott'm Forest",
+      "Position": "Goalkeeper",
+      "Ownership": "1.7",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Kulusevski",
+      "Team": "Spurs",
+      "Position": "Midfielder",
+      "Ownership": "9.0",
+      "Price": "8.0",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1664674263000.0,
+      "Name": "Jim\u00e9nez",
+      "Team": "Wolves",
+      "Position": "Forward",
+      "Ownership": "0.3",
+      "Price": "6.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664587863000.0,
+      "Name": "Dasilva",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "7.0",
+      "Price": "4.5",
+      "Delta": "-0.1",
+      "Form": "1.5"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Chalobah",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Wilson",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "5.7",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Firmino",
+      "Team": "Liverpool",
+      "Position": "Forward",
+      "Ownership": "2.8",
+      "Price": "7.9",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Salah",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "35.4",
+      "Price": "12.8",
+      "Delta": "-0.1",
+      "Form": "3.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Van de Beek",
+      "Team": "Man Utd",
+      "Position": "Midfielder",
+      "Ownership": "0.2",
+      "Price": "5.1",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Isak",
+      "Team": "Newcastle",
+      "Position": "Forward",
+      "Ownership": "5.6",
+      "Price": "7.0",
+      "Delta": "0.0",
+      "Form": "5.5"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Dennis",
+      "Team": "Nott'm Forest",
+      "Position": "Forward",
+      "Ownership": "0.1",
+      "Price": "5.8",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "McCarthy",
+      "Team": "Southampton",
+      "Position": "Goalkeeper",
+      "Ownership": "0.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Forster",
+      "Team": "Spurs",
+      "Position": "Goalkeeper",
+      "Ownership": "4.1",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Bissouma",
+      "Team": "Spurs",
+      "Position": "Midfielder",
+      "Ownership": "0.4",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1664587863000.0,
+      "Name": "Lanzini",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "0.2",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664501463000.0,
+      "Name": "Marquinhos",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1664501463000.0,
+      "Name": "Keane",
+      "Team": "Everton",
+      "Position": "Defender",
+      "Ownership": "0.4",
+      "Price": "4.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664501463000.0,
+      "Name": "Gelhardt",
+      "Team": "Leeds",
+      "Position": "Forward",
+      "Ownership": "0.3",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664501463000.0,
+      "Name": "Adri\u00e1n",
+      "Team": "Liverpool",
+      "Position": "Goalkeeper",
+      "Ownership": "0.6",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1664501463000.0,
+      "Name": "Cook",
+      "Team": "Nott'm Forest",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    }
+  ],
+  [
+    {
+      "Date": 1664415062000.0,
+      "Name": "Holding",
+      "Team": "Arsenal",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.2",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1664415062000.0,
+      "Name": "Cash",
+      "Team": "Aston Villa",
+      "Position": "Defender",
+      "Ownership": "4.9",
+      "Price": "4.6",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1664415062000.0,
+      "Name": "Undav",
+      "Team": "Brighton",
+      "Position": "Forward",
+      "Ownership": "0.3",
+      "Price": "5.1",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": 1664415062000.0,
+      "Name": "Harris",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    }
+  ],
+  [
+    {
+      "Date": 1664328663000.0,
+      "Name": "Smith Rowe",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "0.5",
+      "Price": "5.6",
+      "Delta": "-0.1",
+      "Form": "0.7"
+    },
+    {
+      "Date": 1664328663000.0,
+      "Name": "Robinson",
+      "Team": "Fulham",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.7"
+    },
+    {
+      "Date": 1664328663000.0,
+      "Name": "Amartey",
+      "Team": "Leicester",
+      "Position": "Defender",
+      "Ownership": "0.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.3"
+    },
+    {
+      "Date": 1664328663000.0,
+      "Name": "Kalajd\u017ei\u0107",
+      "Team": "Wolves",
+      "Position": "Forward",
+      "Ownership": "0.0",
+      "Price": "5.4",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    }
+  ],
+  [
+    {
+      "Date": 1664155863000.0,
+      "Name": "Cucurella",
+      "Team": "Chelsea",
+      "Position": "Defender",
+      "Ownership": "10.7",
+      "Price": "5.1",
+      "Delta": "-0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": 1664155863000.0,
+      "Name": "Thiago Silva",
+      "Team": "Chelsea",
+      "Position": "Defender",
+      "Ownership": "5.5",
+      "Price": "5.4",
+      "Delta": "-0.1",
+      "Form": "3.7"
+    },
+    {
+      "Date": 1664155863000.0,
+      "Name": "Van Dijk",
+      "Team": "Liverpool",
+      "Position": "Defender",
+      "Ownership": "13.4",
+      "Price": "6.4",
+      "Delta": "-0.1",
+      "Form": "6.3"
+    }
+  ],
+  [
+    {
+      "Date": 1664069462000.0,
+      "Name": "Jesus",
+      "Team": "Arsenal",
+      "Position": "Forward",
+      "Ownership": "71.9",
+      "Price": "8.0",
+      "Delta": "-0.1",
+      "Form": "3.5"
+    },
+    {
+      "Date": 1664069462000.0,
+      "Name": "Gu\u00e9hi",
+      "Team": "Crystal Palace",
+      "Position": "Defender",
+      "Ownership": "1.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": 1664069462000.0,
+      "Name": "Rodri",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "2.1",
+      "Price": "5.8",
+      "Delta": "-0.1",
+      "Form": "2.5"
+    }
+  ],
+  [],
+  [
+    {
+      "Date": 1663896662000.0,
+      "Name": "Kristensen",
+      "Team": "Leeds",
+      "Position": "Defender",
+      "Ownership": "0.4",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    }
+  ],
+  [
+    {
+      "Date": 1663810262000.0,
+      "Name": "Murphy",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "3.6",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    }
+  ],
+  [
+    {
+      "Date": 1663723862000.0,
+      "Name": "Olise",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.4",
+      "Delta": "-0.1",
+      "Form": "1.7"
+    },
+    {
+      "Date": 1663723862000.0,
+      "Name": "Moutinho",
+      "Team": "Wolves",
+      "Position": "Midfielder",
+      "Ownership": "0.5",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "2.2"
+    }
+  ],
+  [
+    {
+      "Date": 1663637462000.0,
+      "Name": "Chambers",
+      "Team": "Aston Villa",
+      "Position": "Defender",
+      "Ownership": "0.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    }
+  ],
+  [
+    {
+      "Date": 1663551062000.0,
+      "Name": "Watkins",
+      "Team": "Aston Villa",
+      "Position": "Forward",
+      "Ownership": "2.0",
+      "Price": "7.2",
+      "Delta": "-0.1",
+      "Form": "2.8"
+    },
+    {
+      "Date": 1663551062000.0,
+      "Name": "P\u00e9rez",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.4"
+    },
+    {
+      "Date": 1663551062000.0,
+      "Name": "S\u00f6y\u00fcnc\u00fc",
+      "Team": "Leicester",
+      "Position": "Defender",
+      "Ownership": "0.3",
+      "Price": "4.2",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663551062000.0,
+      "Name": "Robertson",
+      "Team": "Liverpool",
+      "Position": "Defender",
+      "Ownership": "4.1",
+      "Price": "6.7",
+      "Delta": "-0.1",
+      "Form": "3.2"
+    },
+    {
+      "Date": 1663551062000.0,
+      "Name": "Wood",
+      "Team": "Newcastle",
+      "Position": "Forward",
+      "Ownership": "0.6",
+      "Price": "5.6",
+      "Delta": "-0.1",
+      "Form": "1.2"
+    }
+  ],
+  [
+    {
+      "Date": 1663464662000.0,
+      "Name": "Jorginho",
+      "Team": "Chelsea",
+      "Position": "Midfielder",
+      "Ownership": "2.8",
+      "Price": "5.9",
+      "Delta": "-0.1",
+      "Form": "1.8"
+    }
+  ],
+  [
+    {
+      "Date": 1663378263000.0,
+      "Name": "Nelson",
+      "Team": "Arsenal",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Mbeumo",
+      "Team": "Brentford",
+      "Position": "Forward",
+      "Ownership": "1.9",
+      "Price": "5.9",
+      "Delta": "-0.1",
+      "Form": "2.8"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Hughes",
+      "Team": "Crystal Palace",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Knockaert",
+      "Team": "Fulham",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Brunt",
+      "Team": "Leicester",
+      "Position": "Defender",
+      "Ownership": "0.3",
+      "Price": "3.9",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Greenwood",
+      "Team": "Leeds",
+      "Position": "Forward",
+      "Ownership": "11.8",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Alexander-Arnold",
+      "Team": "Liverpool",
+      "Position": "Defender",
+      "Ownership": "37.7",
+      "Price": "7.4",
+      "Delta": "-0.1",
+      "Form": "5.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Walker",
+      "Team": "Man City",
+      "Position": "Defender",
+      "Ownership": "8.5",
+      "Price": "5.0",
+      "Delta": "-0.1",
+      "Form": "2.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Bruno Guimar\u00e3es",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "2.4",
+      "Price": "5.6",
+      "Delta": "-0.1",
+      "Form": "0.2"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Arter",
+      "Team": "Nott'm Forest",
+      "Position": "Midfielder",
+      "Ownership": "0.2",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Taylor",
+      "Team": "Nott'm Forest",
+      "Position": "Forward",
+      "Ownership": "5.8",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "Caf\u00fa",
+      "Team": "Nott'm Forest",
+      "Position": "Midfielder",
+      "Ownership": "0.3",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": 1663378263000.0,
+      "Name": "A\u00eft-Nouri",
+      "Team": "Wolves",
+      "Position": "Defender",
+      "Ownership": "1.1",
+      "Price": "4.3",
+      "Delta": "-0.1",
+      "Form": "1.6"
+    }
+  ]
 ]
