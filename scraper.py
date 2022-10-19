@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from requests_html import HTMLSession
 import json
 import re
+from datetime import datetime
 
 load_dotenv()
 
@@ -19,6 +20,7 @@ resRisers=[]
 resFallers=[]
 resIn=[]
 resOut=[]
+
 
 for submission in reddit.subreddit("FantasyPL").hot(limit=1000):
     if "Player Price Changes" in submission.title:
@@ -50,9 +52,9 @@ for submission in reddit.subreddit("FantasyPL").hot(limit=1000):
         
         headerData.insert(0,"Date")
         for i in inData:
-            i.insert(0,submission.created_utc*1000)
+            i.insert(0,datetime.utcfromtimestamp(submission.created_utc).strftime("%Y-%m-%d"))
         for i in outData:
-            i.insert(0,submission.created_utc*1000)
+            i.insert(0,datetime.utcfromtimestamp(submission.created_utc).strftime("%Y-%m-%d"))
     
         resIn.append([dict(zip(headerData, data)) for data in inData])
         resOut.append([dict(zip(headerData, data)) for data in outData])
