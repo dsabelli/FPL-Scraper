@@ -21,6 +21,7 @@ resFallers=[]
 resIn=[]
 resOut=[]
 
+# print(datetime.utcfromtimestamp(1665797463).strftime("%Y-%m-%d"))
 
 for submission in reddit.subreddit("FantasyPL").hot(limit=1000):
     if "Player Price Changes" in submission.title:
@@ -34,9 +35,9 @@ for submission in reddit.subreddit("FantasyPL").hot(limit=1000):
         
         headerData.insert(0,"Date")
         for i in risersData:
-            i.insert(0,submission.created_utc*1000)
+            i.insert(0,datetime.utcfromtimestamp(submission.created_utc).strftime("%Y-%m-%d"))
         for i in fallersData:
-            i.insert(0,submission.created_utc*1000)
+            i.insert(0,datetime.utcfromtimestamp(submission.created_utc).strftime("%Y-%m-%d"))
                         
         resRisers.append([dict(zip(headerData, data)) for data in risersData])
         resFallers.append([dict(zip(headerData, data)) for data in fallersData])

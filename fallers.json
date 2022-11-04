@@ -1,7 +1,161 @@
 [
   [
     {
-      "Date": 1665970264000.0,
+      "Date": "2022-10-19",
+      "Name": "Zinchenko",
+      "Team": "Arsenal",
+      "Position": "Defender",
+      "Ownership": "9.6",
+      "Price": "5.0",
+      "Delta": "-0.1",
+      "Form": "0.7"
+    },
+    {
+      "Date": "2022-10-19",
+      "Name": "Damsgaard",
+      "Team": "Brentford",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": "2022-10-19",
+      "Name": "Albrighton",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.7",
+      "Delta": "-0.1",
+      "Form": "0.2"
+    },
+    {
+      "Date": "2022-10-19",
+      "Name": "Haaland",
+      "Team": "Man City",
+      "Position": "Forward",
+      "Ownership": "80.5",
+      "Price": "12.1",
+      "Delta": "-0.1",
+      "Form": "10.3"
+    },
+    {
+      "Date": "2022-10-19",
+      "Name": "Fraser",
+      "Team": "Newcastle",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    },
+    {
+      "Date": "2022-10-19",
+      "Name": "Edozie",
+      "Team": "Southampton",
+      "Position": "Midfielder",
+      "Ownership": "0.0",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "0.5"
+    }
+  ],
+  [
+    {
+      "Date": "2022-10-18",
+      "Name": "Maddison",
+      "Team": "Leicester",
+      "Position": "Midfielder",
+      "Ownership": "12.0",
+      "Price": "8.2",
+      "Delta": "-0.1",
+      "Form": "7.0"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "Luis D\u00edaz",
+      "Team": "Liverpool",
+      "Position": "Midfielder",
+      "Ownership": "10.7",
+      "Price": "7.9",
+      "Delta": "-0.1",
+      "Form": "2.3"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "De Bruyne",
+      "Team": "Man City",
+      "Position": "Midfielder",
+      "Ownership": "29.4",
+      "Price": "12.3",
+      "Delta": "-0.1",
+      "Form": "5.3"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "\u00c1lvarez",
+      "Team": "Man City",
+      "Position": "Forward",
+      "Ownership": "1.1",
+      "Price": "6.0",
+      "Delta": "-0.1",
+      "Form": "1.0"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "Renan Lodi",
+      "Team": "Nott'm Forest",
+      "Position": "Defender",
+      "Ownership": "0.1",
+      "Price": "4.4",
+      "Delta": "-0.1",
+      "Form": "0.0"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "S.Armstrong",
+      "Team": "Southampton",
+      "Position": "Midfielder",
+      "Ownership": "0.1",
+      "Price": "4.8",
+      "Delta": "-0.1",
+      "Form": "1.3"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "Emerson Royal",
+      "Team": "Spurs",
+      "Position": "Defender",
+      "Ownership": "2.3",
+      "Price": "4.9",
+      "Delta": "-0.1",
+      "Form": "-0.7"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "Soucek",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "1.1",
+      "Price": "5.3",
+      "Delta": "-0.1",
+      "Form": "2.2"
+    },
+    {
+      "Date": "2022-10-18",
+      "Name": "Fornals",
+      "Team": "West Ham",
+      "Position": "Midfielder",
+      "Ownership": "0.7",
+      "Price": "5.2",
+      "Delta": "-0.1",
+      "Form": "1.2"
+    }
+  ],
+  [
+    {
+      "Date": "2022-10-17",
       "Name": "Nakamba",
       "Team": "Aston Villa",
       "Position": "Midfielder",
@@ -11,7 +165,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665970264000.0,
+      "Date": "2022-10-17",
       "Name": "Malacia",
       "Team": "Man Utd",
       "Position": "Defender",
@@ -21,7 +175,7 @@
       "Form": "-0.7"
     },
     {
-      "Date": 1665970264000.0,
+      "Date": "2022-10-17",
       "Name": "Awoniyi",
       "Team": "Nott'm Forest",
       "Position": "Forward",
@@ -31,7 +185,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665970264000.0,
+      "Date": "2022-10-17",
       "Name": "Lingard",
       "Team": "Nott'm Forest",
       "Position": "Midfielder",
@@ -43,7 +197,7 @@
   ],
   [
     {
-      "Date": 1665883864000.0,
+      "Date": "2022-10-16",
       "Name": "Patterson",
       "Team": "Everton",
       "Position": "Defender",
@@ -53,7 +207,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665883864000.0,
+      "Date": "2022-10-16",
       "Name": "Praet",
       "Team": "Leicester",
       "Position": "Midfielder",
@@ -63,7 +217,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665883864000.0,
+      "Date": "2022-10-16",
       "Name": "Arthur",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -75,7 +229,7 @@
   ],
   [
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Dendoncker",
       "Team": "Aston Villa",
       "Position": "Midfielder",
@@ -85,7 +239,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Lerma",
       "Team": "Bournemouth",
       "Position": "Midfielder",
@@ -95,7 +249,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Gro\u00df",
       "Team": "Brighton",
       "Position": "Midfielder",
@@ -105,7 +259,7 @@
       "Form": "2.0"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "James",
       "Team": "Chelsea",
       "Position": "Defender",
@@ -115,7 +269,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Sterling",
       "Team": "Chelsea",
       "Position": "Midfielder",
@@ -125,7 +279,7 @@
       "Form": "0.7"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Townsend",
       "Team": "Everton",
       "Position": "Midfielder",
@@ -135,7 +289,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Gordon",
       "Team": "Everton",
       "Position": "Midfielder",
@@ -145,7 +299,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Iheanacho",
       "Team": "Leicester",
       "Position": "Forward",
@@ -155,7 +309,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Harrison",
       "Team": "Leeds",
       "Position": "Midfielder",
@@ -165,7 +319,7 @@
       "Form": "1.7"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Milner",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -175,7 +329,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Alexander-Arnold",
       "Team": "Liverpool",
       "Position": "Defender",
@@ -185,7 +339,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Bernardo",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -195,7 +349,7 @@
       "Form": "3.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Martial",
       "Team": "Man Utd",
       "Position": "Forward",
@@ -205,7 +359,7 @@
       "Form": "4.7"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Garnacho",
       "Team": "Man Utd",
       "Position": "Midfielder",
@@ -215,7 +369,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Joelinton",
       "Team": "Newcastle",
       "Position": "Midfielder",
@@ -225,7 +379,7 @@
       "Form": "1.2"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Perraud",
       "Team": "Southampton",
       "Position": "Defender",
@@ -235,7 +389,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Coufal",
       "Team": "West Ham",
       "Position": "Defender",
@@ -245,7 +399,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Rice",
       "Team": "West Ham",
       "Position": "Midfielder",
@@ -255,7 +409,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Downes",
       "Team": "West Ham",
       "Position": "Midfielder",
@@ -265,7 +419,7 @@
       "Form": "0.2"
     },
     {
-      "Date": 1665797463000.0,
+      "Date": "2022-10-15",
       "Name": "Bueno",
       "Team": "Wolves",
       "Position": "Defender",
@@ -277,7 +431,7 @@
   ],
   [
     {
-      "Date": 1665711068000.0,
+      "Date": "2022-10-14",
       "Name": "Nketiah",
       "Team": "Arsenal",
       "Position": "Forward",
@@ -287,7 +441,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665711068000.0,
+      "Date": "2022-10-14",
       "Name": "Demb\u00e9l\u00e9",
       "Team": "Bournemouth",
       "Position": "Midfielder",
@@ -297,7 +451,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665711068000.0,
+      "Date": "2022-10-14",
       "Name": "Jansson",
       "Team": "Brentford",
       "Position": "Defender",
@@ -307,7 +461,7 @@
       "Form": "2.3"
     },
     {
-      "Date": 1665711068000.0,
+      "Date": "2022-10-14",
       "Name": "Mitrovi\u0107",
       "Team": "Fulham",
       "Position": "Forward",
@@ -317,7 +471,7 @@
       "Form": "0.7"
     },
     {
-      "Date": 1665711068000.0,
+      "Date": "2022-10-14",
       "Name": "Elyounoussi",
       "Team": "Southampton",
       "Position": "Midfielder",
@@ -329,7 +483,7 @@
   ],
   [
     {
-      "Date": 1665624664000.0,
+      "Date": "2022-10-13",
       "Name": "Diego Carlos",
       "Team": "Aston Villa",
       "Position": "Defender",
@@ -339,7 +493,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665624664000.0,
+      "Date": "2022-10-13",
       "Name": "Strakosha",
       "Team": "Brentford",
       "Position": "Goalkeeper",
@@ -349,7 +503,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665624664000.0,
+      "Date": "2022-10-13",
       "Name": "Mateta",
       "Team": "Crystal Palace",
       "Position": "Forward",
@@ -359,7 +513,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665624664000.0,
+      "Date": "2022-10-13",
       "Name": "Kurzawa",
       "Team": "Fulham",
       "Position": "Defender",
@@ -369,7 +523,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665624664000.0,
+      "Date": "2022-10-13",
       "Name": "Forshaw",
       "Team": "Leeds",
       "Position": "Midfielder",
@@ -381,7 +535,7 @@
   ],
   [
     {
-      "Date": 1665538264000.0,
+      "Date": "2022-10-12",
       "Name": "Onomah",
       "Team": "Fulham",
       "Position": "Midfielder",
@@ -391,7 +545,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1665538264000.0,
+      "Date": "2022-10-12",
       "Name": "Bamford",
       "Team": "Leeds",
       "Position": "Forward",
@@ -401,7 +555,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665538264000.0,
+      "Date": "2022-10-12",
       "Name": "Ortega",
       "Team": "Man City",
       "Position": "Goalkeeper",
@@ -411,7 +565,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665538264000.0,
+      "Date": "2022-10-12",
       "Name": "Isak",
       "Team": "Newcastle",
       "Position": "Forward",
@@ -423,7 +577,7 @@
   ],
   [
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Bailey",
       "Team": "Aston Villa",
       "Position": "Midfielder",
@@ -433,7 +587,7 @@
       "Form": "1.7"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Milivojevic",
       "Team": "Crystal Palace",
       "Position": "Midfielder",
@@ -443,7 +597,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Schlupp",
       "Team": "Crystal Palace",
       "Position": "Midfielder",
@@ -453,7 +607,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Fabinho",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -463,7 +617,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Luis D\u00edaz",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -473,7 +627,7 @@
       "Form": "3.5"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Wilson-Esbrand",
       "Team": "Man City",
       "Position": "Defender",
@@ -483,7 +637,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Fred",
       "Team": "Man Utd",
       "Position": "Midfielder",
@@ -493,7 +647,7 @@
       "Form": "2.0"
     },
     {
-      "Date": 1665451863000.0,
+      "Date": "2022-10-11",
       "Name": "Johnson",
       "Team": "Nott'm Forest",
       "Position": "Forward",
@@ -505,7 +659,7 @@
   ],
   [
     {
-      "Date": 1665365463000.0,
+      "Date": "2022-10-10",
       "Name": "Dasilva",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -515,7 +669,7 @@
       "Form": "1.3"
     },
     {
-      "Date": 1665365463000.0,
+      "Date": "2022-10-10",
       "Name": "Cairney",
       "Team": "Fulham",
       "Position": "Midfielder",
@@ -525,7 +679,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665365463000.0,
+      "Date": "2022-10-10",
       "Name": "G\u00fcndogan",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -535,7 +689,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665365463000.0,
+      "Date": "2022-10-10",
       "Name": "Sarr",
       "Team": "Spurs",
       "Position": "Midfielder",
@@ -547,7 +701,7 @@
   ],
   [
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Digne",
       "Team": "Aston Villa",
       "Position": "Defender",
@@ -557,7 +711,7 @@
       "Form": "2.3"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Jensen",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -567,7 +721,7 @@
       "Form": "2.3"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Holgate",
       "Team": "Everton",
       "Position": "Defender",
@@ -577,7 +731,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Klaesson",
       "Team": "Leeds",
       "Position": "Goalkeeper",
@@ -587,7 +741,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Walker",
       "Team": "Man City",
       "Position": "Defender",
@@ -597,7 +751,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Palmer",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -607,7 +761,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Elanga",
       "Team": "Man Utd",
       "Position": "Midfielder",
@@ -617,7 +771,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Heaton",
       "Team": "Man Utd",
       "Position": "Goalkeeper",
@@ -627,7 +781,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Saint-Maximin",
       "Team": "Newcastle",
       "Position": "Midfielder",
@@ -637,7 +791,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Peri\u0161i\u0107",
       "Team": "Spurs",
       "Position": "Defender",
@@ -647,7 +801,7 @@
       "Form": "1.3"
     },
     {
-      "Date": 1665279063000.0,
+      "Date": "2022-10-09",
       "Name": "Neto",
       "Team": "Wolves",
       "Position": "Midfielder",
@@ -659,7 +813,7 @@
   ],
   [
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "\u00d8degaard",
       "Team": "Arsenal",
       "Position": "Midfielder",
@@ -669,7 +823,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "N\u00f8rgaard",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -679,7 +833,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "Lewis-Potter",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -689,7 +843,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "Ziyech",
       "Team": "Chelsea",
       "Position": "Midfielder",
@@ -699,7 +853,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "Gordon",
       "Team": "Everton",
       "Position": "Midfielder",
@@ -709,7 +863,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "Salah",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -719,7 +873,7 @@
       "Form": "5.0"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "Rodri",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -729,7 +883,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665192664000.0,
+      "Date": "2022-10-08",
       "Name": "Benrahma",
       "Team": "West Ham",
       "Position": "Midfielder",
@@ -741,7 +895,7 @@
   ],
   [
     {
-      "Date": 1665106263000.0,
+      "Date": "2022-10-07",
       "Name": "Kebano",
       "Team": "Fulham",
       "Position": "Midfielder",
@@ -751,7 +905,7 @@
       "Form": "2.5"
     },
     {
-      "Date": 1665106263000.0,
+      "Date": "2022-10-07",
       "Name": "Mitrovi\u0107",
       "Team": "Fulham",
       "Position": "Forward",
@@ -761,7 +915,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665106263000.0,
+      "Date": "2022-10-07",
       "Name": "Klich",
       "Team": "Leeds",
       "Position": "Midfielder",
@@ -771,7 +925,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665106263000.0,
+      "Date": "2022-10-07",
       "Name": "Dubravka",
       "Team": "Man Utd",
       "Position": "Goalkeeper",
@@ -781,7 +935,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665106263000.0,
+      "Date": "2022-10-07",
       "Name": "Boly",
       "Team": "Nott'm Forest",
       "Position": "Defender",
@@ -793,7 +947,7 @@
   ],
   [
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Kamara",
       "Team": "Aston Villa",
       "Position": "Midfielder",
@@ -803,7 +957,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Alexander-Arnold",
       "Team": "Liverpool",
       "Position": "Defender",
@@ -813,7 +967,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Toffolo",
       "Team": "Nott'm Forest",
       "Position": "Defender",
@@ -823,7 +977,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Ward-Prowse",
       "Team": "Southampton",
       "Position": "Midfielder",
@@ -833,7 +987,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Edozie",
       "Team": "Southampton",
       "Position": "Midfielder",
@@ -843,7 +997,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Emerson Royal",
       "Team": "Spurs",
       "Position": "Defender",
@@ -853,7 +1007,7 @@
       "Form": "-0.5"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Antonio",
       "Team": "West Ham",
       "Position": "Forward",
@@ -863,7 +1017,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1665019863000.0,
+      "Date": "2022-10-06",
       "Name": "Fornals",
       "Team": "West Ham",
       "Position": "Midfielder",
@@ -875,7 +1029,7 @@
   ],
   [
     {
-      "Date": 1664933463000.0,
+      "Date": "2022-10-05",
       "Name": "Kelly",
       "Team": "Bournemouth",
       "Position": "Defender",
@@ -885,7 +1039,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664933463000.0,
+      "Date": "2022-10-05",
       "Name": "Gro\u00df",
       "Team": "Brighton",
       "Position": "Midfielder",
@@ -895,7 +1049,7 @@
       "Form": "2.0"
     },
     {
-      "Date": 1664933463000.0,
+      "Date": "2022-10-05",
       "Name": "Mills",
       "Team": "Everton",
       "Position": "Midfielder",
@@ -905,7 +1059,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664933463000.0,
+      "Date": "2022-10-05",
       "Name": "Worrall",
       "Team": "Nott'm Forest",
       "Position": "Defender",
@@ -917,7 +1071,7 @@
   ],
   [
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Lowe",
       "Team": "Bournemouth",
       "Position": "Midfielder",
@@ -927,7 +1081,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Ghoddos",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -937,7 +1091,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Roerslev",
       "Team": "Brentford",
       "Position": "Defender",
@@ -947,7 +1101,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Onyeka",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -957,7 +1111,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Luis D\u00edaz",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -967,7 +1121,7 @@
       "Form": "4.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Mahrez",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -977,7 +1131,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Dias",
       "Team": "Man City",
       "Position": "Defender",
@@ -987,7 +1141,7 @@
       "Form": "3.0"
     },
     {
-      "Date": 1664847063000.0,
+      "Date": "2022-10-04",
       "Name": "Ogbonna",
       "Team": "West Ham",
       "Position": "Defender",
@@ -999,7 +1153,7 @@
   ],
   [
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Buend\u00eda",
       "Team": "Aston Villa",
       "Position": "Midfielder",
@@ -1009,7 +1163,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Guilbert",
       "Team": "Aston Villa",
       "Position": "Defender",
@@ -1019,7 +1173,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Ebiowei",
       "Team": "Crystal Palace",
       "Position": "Midfielder",
@@ -1029,7 +1183,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Ndidi",
       "Team": "Leicester",
       "Position": "Midfielder",
@@ -1039,7 +1193,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Harrison",
       "Team": "Leeds",
       "Position": "Midfielder",
@@ -1049,7 +1203,7 @@
       "Form": "2.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Darwin",
       "Team": "Liverpool",
       "Position": "Forward",
@@ -1059,7 +1213,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Arthur",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -1069,7 +1223,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Rashford",
       "Team": "Man Utd",
       "Position": "Midfielder",
@@ -1079,7 +1233,7 @@
       "Form": "9.5"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Isak",
       "Team": "Newcastle",
       "Position": "Forward",
@@ -1089,7 +1243,7 @@
       "Form": "3.7"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Lingard",
       "Team": "Nott'm Forest",
       "Position": "Midfielder",
@@ -1099,7 +1253,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664760668000.0,
+      "Date": "2022-10-03",
       "Name": "Davies",
       "Team": "Spurs",
       "Position": "Defender",
@@ -1111,7 +1265,7 @@
   ],
   [
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "McGinn",
       "Team": "Aston Villa",
       "Position": "Midfielder",
@@ -1121,7 +1275,7 @@
       "Form": "1.7"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Azpilicueta",
       "Team": "Chelsea",
       "Position": "Defender",
@@ -1131,7 +1285,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Mendy",
       "Team": "Leicester",
       "Position": "Midfielder",
@@ -1141,7 +1295,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Gyabi",
       "Team": "Leeds",
       "Position": "Midfielder",
@@ -1151,7 +1305,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "G\u00fcndogan",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -1161,7 +1315,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "\u00c1lvarez",
       "Team": "Man City",
       "Position": "Forward",
@@ -1171,7 +1325,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Lewis",
       "Team": "Man City",
       "Position": "Defender",
@@ -1181,7 +1335,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Casemiro",
       "Team": "Man Utd",
       "Position": "Midfielder",
@@ -1191,7 +1345,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "McKenna",
       "Team": "Nott'm Forest",
       "Position": "Defender",
@@ -1201,7 +1355,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Hennessey",
       "Team": "Nott'm Forest",
       "Position": "Goalkeeper",
@@ -1211,7 +1365,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Kulusevski",
       "Team": "Spurs",
       "Position": "Midfielder",
@@ -1221,7 +1375,7 @@
       "Form": "2.0"
     },
     {
-      "Date": 1664674263000.0,
+      "Date": "2022-10-02",
       "Name": "Jim\u00e9nez",
       "Team": "Wolves",
       "Position": "Forward",
@@ -1233,7 +1387,7 @@
   ],
   [
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Dasilva",
       "Team": "Brentford",
       "Position": "Midfielder",
@@ -1243,7 +1397,7 @@
       "Form": "1.5"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Chalobah",
       "Team": "Fulham",
       "Position": "Midfielder",
@@ -1253,7 +1407,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Wilson",
       "Team": "Fulham",
       "Position": "Midfielder",
@@ -1263,7 +1417,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Firmino",
       "Team": "Liverpool",
       "Position": "Forward",
@@ -1273,7 +1427,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Salah",
       "Team": "Liverpool",
       "Position": "Midfielder",
@@ -1283,7 +1437,7 @@
       "Form": "3.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Van de Beek",
       "Team": "Man Utd",
       "Position": "Midfielder",
@@ -1293,7 +1447,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Isak",
       "Team": "Newcastle",
       "Position": "Forward",
@@ -1303,7 +1457,7 @@
       "Form": "5.5"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Dennis",
       "Team": "Nott'm Forest",
       "Position": "Forward",
@@ -1313,7 +1467,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "McCarthy",
       "Team": "Southampton",
       "Position": "Goalkeeper",
@@ -1323,7 +1477,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Forster",
       "Team": "Spurs",
       "Position": "Goalkeeper",
@@ -1333,7 +1487,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Bissouma",
       "Team": "Spurs",
       "Position": "Midfielder",
@@ -1343,7 +1497,7 @@
       "Form": "0.5"
     },
     {
-      "Date": 1664587863000.0,
+      "Date": "2022-10-01",
       "Name": "Lanzini",
       "Team": "West Ham",
       "Position": "Midfielder",
@@ -1355,7 +1509,7 @@
   ],
   [
     {
-      "Date": 1664501463000.0,
+      "Date": "2022-09-30",
       "Name": "Marquinhos",
       "Team": "Arsenal",
       "Position": "Midfielder",
@@ -1365,7 +1519,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1664501463000.0,
+      "Date": "2022-09-30",
       "Name": "Keane",
       "Team": "Everton",
       "Position": "Defender",
@@ -1375,7 +1529,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664501463000.0,
+      "Date": "2022-09-30",
       "Name": "Gelhardt",
       "Team": "Leeds",
       "Position": "Forward",
@@ -1385,7 +1539,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664501463000.0,
+      "Date": "2022-09-30",
       "Name": "Adri\u00e1n",
       "Team": "Liverpool",
       "Position": "Goalkeeper",
@@ -1395,7 +1549,7 @@
       "Form": "0.0"
     },
     {
-      "Date": 1664501463000.0,
+      "Date": "2022-09-30",
       "Name": "Cook",
       "Team": "Nott'm Forest",
       "Position": "Defender",
@@ -1407,7 +1561,7 @@
   ],
   [
     {
-      "Date": 1664415062000.0,
+      "Date": "2022-09-29",
       "Name": "Holding",
       "Team": "Arsenal",
       "Position": "Defender",
@@ -1417,7 +1571,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1664415062000.0,
+      "Date": "2022-09-29",
       "Name": "Cash",
       "Team": "Aston Villa",
       "Position": "Defender",
@@ -1427,7 +1581,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1664415062000.0,
+      "Date": "2022-09-29",
       "Name": "Undav",
       "Team": "Brighton",
       "Position": "Forward",
@@ -1437,7 +1591,7 @@
       "Form": "1.0"
     },
     {
-      "Date": 1664415062000.0,
+      "Date": "2022-09-29",
       "Name": "Harris",
       "Team": "Fulham",
       "Position": "Midfielder",
@@ -1449,7 +1603,7 @@
   ],
   [
     {
-      "Date": 1664328663000.0,
+      "Date": "2022-09-28",
       "Name": "Smith Rowe",
       "Team": "Arsenal",
       "Position": "Midfielder",
@@ -1459,7 +1613,7 @@
       "Form": "0.7"
     },
     {
-      "Date": 1664328663000.0,
+      "Date": "2022-09-28",
       "Name": "Robinson",
       "Team": "Fulham",
       "Position": "Defender",
@@ -1469,7 +1623,7 @@
       "Form": "0.7"
     },
     {
-      "Date": 1664328663000.0,
+      "Date": "2022-09-28",
       "Name": "Amartey",
       "Team": "Leicester",
       "Position": "Defender",
@@ -1479,7 +1633,7 @@
       "Form": "0.3"
     },
     {
-      "Date": 1664328663000.0,
+      "Date": "2022-09-28",
       "Name": "Kalajd\u017ei\u0107",
       "Team": "Wolves",
       "Position": "Forward",
@@ -1491,7 +1645,7 @@
   ],
   [
     {
-      "Date": 1664155863000.0,
+      "Date": "2022-09-26",
       "Name": "Cucurella",
       "Team": "Chelsea",
       "Position": "Defender",
@@ -1501,7 +1655,7 @@
       "Form": "2.3"
     },
     {
-      "Date": 1664155863000.0,
+      "Date": "2022-09-26",
       "Name": "Thiago Silva",
       "Team": "Chelsea",
       "Position": "Defender",
@@ -1511,7 +1665,7 @@
       "Form": "3.7"
     },
     {
-      "Date": 1664155863000.0,
+      "Date": "2022-09-26",
       "Name": "Van Dijk",
       "Team": "Liverpool",
       "Position": "Defender",
@@ -1523,7 +1677,7 @@
   ],
   [
     {
-      "Date": 1664069462000.0,
+      "Date": "2022-09-25",
       "Name": "Jesus",
       "Team": "Arsenal",
       "Position": "Forward",
@@ -1533,7 +1687,7 @@
       "Form": "3.5"
     },
     {
-      "Date": 1664069462000.0,
+      "Date": "2022-09-25",
       "Name": "Gu\u00e9hi",
       "Team": "Crystal Palace",
       "Position": "Defender",
@@ -1543,7 +1697,7 @@
       "Form": "2.3"
     },
     {
-      "Date": 1664069462000.0,
+      "Date": "2022-09-25",
       "Name": "Rodri",
       "Team": "Man City",
       "Position": "Midfielder",
@@ -1556,7 +1710,7 @@
   [],
   [
     {
-      "Date": 1663896662000.0,
+      "Date": "2022-09-23",
       "Name": "Kristensen",
       "Team": "Leeds",
       "Position": "Defender",
@@ -1568,7 +1722,7 @@
   ],
   [
     {
-      "Date": 1663810262000.0,
+      "Date": "2022-09-22",
       "Name": "Murphy",
       "Team": "Newcastle",
       "Position": "Midfielder",
@@ -1580,7 +1734,7 @@
   ],
   [
     {
-      "Date": 1663723862000.0,
+      "Date": "2022-09-21",
       "Name": "Olise",
       "Team": "Crystal Palace",
       "Position": "Midfielder",
@@ -1590,7 +1744,7 @@
       "Form": "1.7"
     },
     {
-      "Date": 1663723862000.0,
+      "Date": "2022-09-21",
       "Name": "Moutinho",
       "Team": "Wolves",
       "Position": "Midfielder",
@@ -1602,7 +1756,7 @@
   ],
   [
     {
-      "Date": 1663637462000.0,
+      "Date": "2022-09-20",
       "Name": "Chambers",
       "Team": "Aston Villa",
       "Position": "Defender",
@@ -1610,202 +1764,6 @@
       "Price": "4.3",
       "Delta": "-0.1",
       "Form": "0.5"
-    }
-  ],
-  [
-    {
-      "Date": 1663551062000.0,
-      "Name": "Watkins",
-      "Team": "Aston Villa",
-      "Position": "Forward",
-      "Ownership": "2.0",
-      "Price": "7.2",
-      "Delta": "-0.1",
-      "Form": "2.8"
-    },
-    {
-      "Date": 1663551062000.0,
-      "Name": "P\u00e9rez",
-      "Team": "Leicester",
-      "Position": "Midfielder",
-      "Ownership": "0.1",
-      "Price": "4.8",
-      "Delta": "-0.1",
-      "Form": "1.4"
-    },
-    {
-      "Date": 1663551062000.0,
-      "Name": "S\u00f6y\u00fcnc\u00fc",
-      "Team": "Leicester",
-      "Position": "Defender",
-      "Ownership": "0.3",
-      "Price": "4.2",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663551062000.0,
-      "Name": "Robertson",
-      "Team": "Liverpool",
-      "Position": "Defender",
-      "Ownership": "4.1",
-      "Price": "6.7",
-      "Delta": "-0.1",
-      "Form": "3.2"
-    },
-    {
-      "Date": 1663551062000.0,
-      "Name": "Wood",
-      "Team": "Newcastle",
-      "Position": "Forward",
-      "Ownership": "0.6",
-      "Price": "5.6",
-      "Delta": "-0.1",
-      "Form": "1.2"
-    }
-  ],
-  [
-    {
-      "Date": 1663464662000.0,
-      "Name": "Jorginho",
-      "Team": "Chelsea",
-      "Position": "Midfielder",
-      "Ownership": "2.8",
-      "Price": "5.9",
-      "Delta": "-0.1",
-      "Form": "1.8"
-    }
-  ],
-  [
-    {
-      "Date": 1663378263000.0,
-      "Name": "Nelson",
-      "Team": "Arsenal",
-      "Position": "Midfielder",
-      "Ownership": "0.0",
-      "Price": "4.8",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Mbeumo",
-      "Team": "Brentford",
-      "Position": "Forward",
-      "Ownership": "1.9",
-      "Price": "5.9",
-      "Delta": "-0.1",
-      "Form": "2.8"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Hughes",
-      "Team": "Crystal Palace",
-      "Position": "Midfielder",
-      "Ownership": "0.0",
-      "Price": "4.8",
-      "Delta": "-0.1",
-      "Form": "0.5"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Knockaert",
-      "Team": "Fulham",
-      "Position": "Midfielder",
-      "Ownership": "0.0",
-      "Price": "4.7",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Brunt",
-      "Team": "Leicester",
-      "Position": "Defender",
-      "Ownership": "0.3",
-      "Price": "3.9",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Greenwood",
-      "Team": "Leeds",
-      "Position": "Forward",
-      "Ownership": "11.8",
-      "Price": "4.3",
-      "Delta": "-0.1",
-      "Form": "0.5"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Alexander-Arnold",
-      "Team": "Liverpool",
-      "Position": "Defender",
-      "Ownership": "37.7",
-      "Price": "7.4",
-      "Delta": "-0.1",
-      "Form": "5.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Walker",
-      "Team": "Man City",
-      "Position": "Defender",
-      "Ownership": "8.5",
-      "Price": "5.0",
-      "Delta": "-0.1",
-      "Form": "2.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Bruno Guimar\u00e3es",
-      "Team": "Newcastle",
-      "Position": "Midfielder",
-      "Ownership": "2.4",
-      "Price": "5.6",
-      "Delta": "-0.1",
-      "Form": "0.2"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Arter",
-      "Team": "Nott'm Forest",
-      "Position": "Midfielder",
-      "Ownership": "0.2",
-      "Price": "4.3",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Taylor",
-      "Team": "Nott'm Forest",
-      "Position": "Forward",
-      "Ownership": "5.8",
-      "Price": "4.3",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "Caf\u00fa",
-      "Team": "Nott'm Forest",
-      "Position": "Midfielder",
-      "Ownership": "0.3",
-      "Price": "4.3",
-      "Delta": "-0.1",
-      "Form": "0.0"
-    },
-    {
-      "Date": 1663378263000.0,
-      "Name": "A\u00eft-Nouri",
-      "Team": "Wolves",
-      "Position": "Defender",
-      "Ownership": "1.1",
-      "Price": "4.3",
-      "Delta": "-0.1",
-      "Form": "1.6"
     }
   ]
 ]
